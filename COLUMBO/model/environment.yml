@@ -1,4 +1,4 @@
-name: GenerAT
+name: Columbo
 channels:
   - defaults
 dependencies:
