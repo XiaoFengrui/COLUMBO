@@ -25,7 +25,7 @@ bash ./model/adv_glue/wad.sh
 ```
 
 ### Run attack
-We prototype COLUMBO by combating three state-of-the-art adversarial attack methods, [WAF-A-MoLE](https://github.com/AvalZ/waf-a-mole), GPTfuzzer(https://github.com/hongliangliang/gptfuzzer) and [AdvSQLi](https://github.com/u21h2/AutoSpear).
+We prototype COLUMBO by combating three state-of-the-art adversarial attack methods, [WAF-A-MoLE](https://github.com/AvalZ/waf-a-mole), [GPTfuzzer](https://github.com/hongliangliang/gptfuzzer) and [AdvSQLi](https://github.com/u21h2/AutoSpear).
 1.WAF-A-MoLE
 ```
 python ./attack/wafamole/mutate.py
