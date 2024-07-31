@@ -1,4 +1,0 @@
-61 success " OR 'something'    LIKE    'some'+'thing' "
-101 success '(sElect 1) WHere 2060   lIkE   2060 '
-171 success " OR\x0buserid LIKe '%\n"
-173 success 'SELECT benchmark  (  5000000,md5  (  0x4c4d6142   )    )    &&   (\n "%"   LIKE   " '

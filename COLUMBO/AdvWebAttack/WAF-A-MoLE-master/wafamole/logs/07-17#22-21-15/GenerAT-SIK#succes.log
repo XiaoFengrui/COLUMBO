@@ -1,9 +1,0 @@
-15 success "1%' aNd 2006 \x0c LIkE   2006\xa0"
-61 success " oR 'something'   =   'some'+'thing' "
-135 success 'select count  (  *  )  \nfrom domain.domains as t1,domain.columns as t2,domain.tables as t3#\x0bkuqm '
-171 success " or userid LIke '% "
-499 success "oR 'something'   =   'some'+'thing' "
-540 success '1 uni/**/ON SelEct all\tfrOm WheRE '
-720 success ' EnD aNd    (    (   "dmgj"   LIKe   "dmgj '
-935 success " oR uname LiKE '% "
-1000 success '1 WheRe 8398 \x0b LiKE  \n8398 '

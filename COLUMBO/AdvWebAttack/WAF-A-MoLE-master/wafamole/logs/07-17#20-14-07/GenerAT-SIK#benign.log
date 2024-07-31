@@ -1,7 +1,0 @@
-72 select 
-281 as 
-426 insert into mysql.user   (  user, host, password  )   values   (  'name', 'localhost', password  (  'pass123'   )    )    
-536 " " 
-555 create user name identified by 'pass123' 
-710 ns 
-758 \x27UNION SELECT 

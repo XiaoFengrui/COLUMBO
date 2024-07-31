@@ -1,7 +1,0 @@
-6 set ansi_nulls on 
-157 -1653 union all select 8415,8415,8415,8415,8415,8415,8415,8415# 
-380 insert into [dimcustomer] select geographykey,a.customerid,a.firstname,a.middlename,a.lastname,a.suffix,a.emailaddress from saleslt.customer a inner join saleslt.customeraddress b on a.customerid = b.customerid inner join dimgeography c on c.geographyalternatekey = b.addressid if object_id('dbo.dimdate') is not null 
-619 create procedure [dbo].[sprptticketssales] @datefrom date = null, @dateto date = null, @branchid int = -1 as begin set nocount on 
-637 -8625 or 3176=2519# fvgl 
-971 drop table [dbo].[dimdate] 
-1084 -6109 union all select 6784-- 
