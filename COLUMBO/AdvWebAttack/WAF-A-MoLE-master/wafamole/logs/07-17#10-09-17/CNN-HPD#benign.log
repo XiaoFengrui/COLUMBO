@@ -1,0 +1,3 @@
+6 set ansi_nulls on 
+619 create procedure [dbo].[sprptticketssales] @datefrom date = null, @dateto date = null, @branchid int = -1 as begin set nocount on 
+971 drop table [dbo].[dimdate] 

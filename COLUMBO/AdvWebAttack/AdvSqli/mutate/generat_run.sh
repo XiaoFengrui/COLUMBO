@@ -1,0 +1,1 @@
+python main.py -d GenerAT -g mcts -mst 5 -mat 5

@@ -1,0 +1,2 @@
+6 success 'SEt ansi_nulls on '
+555 success 'sElECT @shipdate = dateadd(day,6,@orderdate), @duedate= dateadd(day,12,@orderdate) '

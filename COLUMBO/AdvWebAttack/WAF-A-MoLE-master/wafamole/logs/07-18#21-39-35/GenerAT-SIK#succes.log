@@ -1,0 +1,6 @@
+29 success 'EnD AnD    (    (   (sElEct 8538) not like 8539 '
+101 success '1 WHERe (seLect 2060)   LikE   2060 '
+536 success '"\x0b"\t'
+540 success '1 uni on SelECt all fRom WHerE\x0b'
+758 success '\\x27UNION sEleCT\t'
+952 success 'SELECT count  (  *  )   fROM domain.domains As t1,domain.columns AS t2,domain.tables aS t3 aNd "%"  =  " '

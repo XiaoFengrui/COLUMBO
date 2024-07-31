@@ -1,0 +1,21 @@
+python -m DeBERTa.apps.wad_run --model_config ./deberta-v3-large/rtd_large.json  \
+	--tag deberta-v3-large \
+	--do_eval \
+	--task_name adv-sst-2 \
+	--data_dir /home/ustc-5/XiaoF/AdvWebDefen/Dataset/SIK/ \
+	--adv_data_path ./adv_glue/dev.json \
+	--max_seq_len 128 \
+	--output_dir ./output/deberta-v3-large/HPD/ablation/woGAT \
+	--num_train_epochs 1 \
+	--fp16 True \
+	--warmup 50 \
+	--learning_rate 2e-6 \
+	--train_batch_size 16 \
+	--cls_drop_out 0.15 \
+	--cache_dir ./deberta-v3-large \
+	--vocab_type spm \
+	--vocab_path ./deberta-v3-large/spm.model \
+	--vat_lambda 4 \
+	--rtd_weight 1.5 \
+	--init_generator ./deberta-v3-large/pytorch_model.generator.bin \
+	--init_discriminator ./deberta-v3-large/pytorch_model.bin \

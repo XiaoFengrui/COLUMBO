@@ -1,0 +1,2 @@
+6 success 'sET ansi_nulls ON '
+971 success 'drOP table [dbo].[dimdate]\x0c'

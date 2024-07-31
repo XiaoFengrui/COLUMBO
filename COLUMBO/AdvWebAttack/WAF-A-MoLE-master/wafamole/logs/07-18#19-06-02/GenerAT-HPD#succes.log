@@ -1,0 +1,4 @@
+6 success 'sEt ansi_nulls on '
+555 success 'sELECT @shipdate  likE\x0b dateadd(day,6,@orderdate), @duedate liKE  dateadd(day,12,@orderdate) '
+637 success '-8625 oR 3176 LiKe 0x9d7# fvgl\x0cb'
+971 success 'drop\x0btable [dbo].[dimdate] '

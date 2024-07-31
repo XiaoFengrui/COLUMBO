@@ -1,0 +1,15 @@
+256 success 'SELEcT *\tFrOm\xa0information_schema.tables-- '
+275 success 'declare @s varchar  (  22  )  \x0cSeLect @s    LIKE \x0c '
+378 success 'SELECT   (\x0c caSe whEN   (  7217   lIKe   7631  )   thEN 7217 ELsE 7217*  (  seLEct 7217 fROM information_schema.character_sets  )   EnD  )  # '
+450 success 'SELECT sleep  (  (SeLect 5)  )   aNd    (    (     (  "%"  =  " '
+490 success ' sELEcT * From users WHERE id \x0c=  1 Or "{." oR \'s\' LIKE \'s\' -- (SELECT 1) '
+499 success "Or 'something'    LIKE    'some'+'thing' "
+540 success '1 uni/*6ai9*/ON seLecT all FROM/**/wHere '
+752 success " SELECT * FRoM users wheRE id   liKe   '1' OR \\<$\nunion seLeCt (sELEcT 1),@@VERSION --\x0b1' "
+806 success 'SELECT count  (  * \t)   FrOm\xa0sysibm.systables AS t1,sysibm.systables AS t2,sysibm.systables AS t3-- *'
+830 success "SELecT count  (  *  )   FROM domain.domains As t1,domain.columns aS t2,domain.tables AS t3 ANd    (    (   'zaru'   likE   'zaru "
+838 success ' sELECt * FROM users WhERE id  =  1 OR @#"{   LiKE   1 or \'|\' NOT LIKE \'|U\' -- (SELECT 1) '
+855 success 'SeLect count  (  *  )   FROM sysibm.systables aS t1,sysibm.systables/**/as t2,sysibm.systables AS t3 anD \n  (    (   "%"   likE   " '
+932 success '1\x0cWheRe 7171 liKe 7171 '
+1056 success 'seLEcT CASe WhEN 8227   LiKE   1229 THEn\t1 ELsE null eNd-- '
+1122 success "SELECT count  (  *  )   FROM generate_series  (  1,5000000  )   AND    (    (   'hxcq'   lIKE   'hxcq "

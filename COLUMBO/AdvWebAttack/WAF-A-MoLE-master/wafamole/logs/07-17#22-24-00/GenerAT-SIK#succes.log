@@ -1,0 +1,24 @@
+7 success "1' wHeRe 440 NOT LIKE 441 "
+36 success '1"\nWhERE/*R.*/4800 not like 4801\x0c'
+61 success "\x0bOR 'something'    LIKE    'some'+'thing' "
+101 success '1 wHErE (sELECt 2060)   lIKE   2060 '
+102 success "1' wHere 4253   LikE \t 4253\t"
+114 success "1' wHeRe 5230   lIke   5230\n"
+162 success 'or 1   liKe \xa0 1/* '
+183 success 'selEcT CasE WhEN 5559 \x0b LIKe   3483 tHeN 1 ELSe null EnD-- '
+222 success "1' whERe\n2661   LiKE   2661 "
+256 success 'select * from information_schema.tables-- ['
+470 success 'sELEct\tcAse\x0bwhEn 7951   like   1147 ThEN 1 ELsE null eNd-- '
+499 success "or 'something'  \t like \x0b  'some'+'thing' "
+536 success '"\x0b" '
+540 success '(sELect 1) uni/**/oN SEleCT all FROm\x0cWhEre '
+554 success "Select count  (  *  )   fRom domain.domains As t1,domain.columns As t2,domain.tables aS t3 AnD    (    (   'wusq'  =  'wusq "
+577 success "1' WhERE 1628   LIke  \n1628 "
+741 success '0x1 WHERe 5443\t  lIkE  \xa0(sELeCt 5443) '
+777 success "1  )   WHErE 'L' not like 'LC' "
+802 success '1 WhERe 2301   LIkE   (sELECT 2301)  AND  True '
+870 success 'SELECT count \t(  *  )   FroM sysibm.systables aS t1,sysibm.systables AS t2,sysibm.systables As t3 aND   (  "lsvg" lIkE "lsvg '
+956 success '1"\tWheRe 2928 LIKe 2928 AND 2355 IN (2354,2355,2356) '
+1000 success '(SeleCT 1) wHERE 8398   LiKE   0x20ce '
+1056 success 'SeLECt CAse wHEN 8227   like   1229 THeN 1 ELSe null eND-- '
+1068 success '1" wHerE\x0b8387   like  \xa0(selEct\n8387) '

