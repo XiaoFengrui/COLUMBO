@@ -1,6 +1,6 @@
 # COLUMBO
 
-This is the source code for the paper `COLUMBO: Combating Obfuscated Payload with Generative Adversarial Training to Prevent Web Attacks Bypassing WAFs`'s model . This project is build on [DeBERTa-V3](https://github.com/microsoft/DeBERTa) and [GenerAT](https://github.com/Opdoop/GenerAT)  and has tested on `Ubuntu 20.04.5 LTS` with single GPU (A100 40GB).
+This is the source code for the paper `COLUMBO: Combating Obfuscated Payload with Generative Adversarial Training to Prevent Web Attacks Bypassing WAFs`'s model . This project is build on [DeBERTa-V3](https://github.com/microsoft/DeBERTa) and [GenerAT](https://github.com/Opdoop/GenerAT)  and has tested on `CentOS 7.9.2009` with single GPU (A100 40GB).
 
 ### Prepare Environment and Datasets
 
