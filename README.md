@@ -12,7 +12,8 @@ conda activate Columbo
 ```
 
 2. Download pre-trained model
-   * Download `pytorch_model.bin` and `pytorch_model.generator.bin` from [huggingface](https://huggingface.co/microsoft/deberta-v3-large/tree/main) and put it in `./deberta-v3-large` . 
+   * Download `pytorch_model.bin` and `pytorch_model.generator.bin` from [huggingface](https://huggingface.co/microsoft/deberta-v3-large/tree/main) and put it in `./deberta-v3-large` .
+
 3. Download data
    * Download [HPD dataset](https://github.com/Morzeux/HttpParamsDataset) and [SIK dataset](https://www.kaggle.com/datasets/syedsaqlainhussain/sql-injection-dataset).
 
@@ -26,6 +27,7 @@ bash ./model/adv_glue/wad.sh
 
 ### Run attack
 We prototype COLUMBO by combating three state-of-the-art adversarial attack methods, [WAF-A-MoLE](https://github.com/AvalZ/waf-a-mole), [GPTfuzzer](https://github.com/hongliangliang/gptfuzzer) and [AdvSQLi](https://github.com/u21h2/AutoSpear).
+
 1.WAF-A-MoLE
 ```
 python ./attack/wafamole/mutate.py
