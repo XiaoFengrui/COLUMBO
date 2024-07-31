@@ -15,12 +15,7 @@ conda activate Columbo
    * Download `pytorch_model.bin` and `pytorch_model.generator.bin` from [huggingface](https://huggingface.co/microsoft/deberta-v3-large/tree/main) and put it in `./deberta-v3-large` . 
 3. Download data
    * Download HPD dataset from link https://github.com/Morzeux/HttpParamsDataset and SIK dataset from link https://www.kaggle.com/datasets/syedsaqlainhussain/sql-injection-dataset.
-```
-python download_glue_data.py
-```
-
-
-
+   * 
 ### Train
 
 Run the following bash scripts, it will train the model on corresponding.
